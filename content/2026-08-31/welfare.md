@@ -1,0 +1,36 @@
+# 🏛️ 오늘의 지원금·정책 브리핑 — 2026-08-31
+
+> 경기도 만 24세 청년 25만원, 9월부터 3분기 신청 시작
+
+## 경기도 만 24세 청년에게 25만원 지역화폐 지원
+- **누가?** 경기도에 사는 만 24세 청년
+- **무엇을?** 25만원 지원
+- **어떻게?** 9월부터 3분기 신청 접수 시작, 경기도 청년 지원 신청 창구에서 접수
+- 원문: https://news.google.com/rss/articles/CBMieEFVX3lxTE9xdFMtc3pxMU9ETXRaQl9mYjlSTWwyRWpmLWVlNVpsUllGc0NXQmoweWtNalBMVmsxMEJXdWt1X1REWFZESGlRM0I3bGlabkE1eTY2VGNKSWFYeXNlZHRaX1RwM0VMaUdVVUowOWhlNWxoQmdrdzd0LQ?oc=5
+
+## 서울커리업 구직지원금, 50대까지 확대 (최대 90만원)
+- **누가?** 서울 거주 구직자, 이번에 50대까지 대상 확대
+- **무엇을?** 구직지원금 최대 90만원
+- **어떻게?** 서울시 공고 확인 후 신청
+- 원문: https://news.google.com/rss/articles/CBMiWEFVX3lxTE9OMTdlZmVZNXBIaFJ0Ymh6UFZIYnZRS2JteXdfSGJqX0p6TllicnF3bW1pY1hycXBUY1RmTzRPN3YxVlBXM0FQV1NPaEV6NzdSQkc0OVhIaUU?oc=5
+
+## 청년문화예술패스, 19~34세로 확대되고 매년 지급
+- **누가?** 19~34세 청년 (기존보다 대상 확대)
+- **무엇을?** 공연·전시 등 문화예술 관람비 지원, CGV·멜론티켓 등에서 사용 가능
+- **어떻게?** 청년문화예술패스 발급 후 제휴 사용처에서 사용
+- 원문: https://news.google.com/rss/articles/CBMicEFVX3lxTE5kMGE3NFN6VlVWYUVDb09oX1NmTFJmMFBFYkpINUpBUmRXSFJHejNxT3dpRUFnQzAyWUYtUVJlVGNyTVRHVkw2RXFsZ0g3NFF5b1hhbVZRR3ZKSUluMVlyd0hVYU9Tc09zTXFTRlJKclc?oc=5
+
+## 목포시 신혼부부·다자녀가정 주택구입 대출이자 지원 (38가구)
+- **누가?** 목포시 신혼부부·다자녀가정
+- **무엇을?** 주택구입 대출이자 지원
+- **어떻게?** 38가구 모집 공고에 맞춰 목포시에 신청
+- 원문: https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LeEpzWEU0eHBXcFpCX1RuMUtXSDdnT2UyZUEweDZabURidjdCMzYyR0FRVEw3OV9adHpOUTJwbFV2MnZETHltdjI0aFNGVGh0ZkwtTg?oc=5
+
+## 화순군 신혼부부·다자녀 보금자리 지원사업 (15가구)
+- **누가?** 화순군 신혼부부·다자녀가정
+- **무엇을?** 보금자리(주거) 지원
+- **어떻게?** 15가구 모집 공고 확인 후 화순군에 신청
+- 원문: https://news.google.com/rss/articles/CBMicEFVX3lxTFAtSG42ZkZiekpFNWMtMXlIdzZkeVpsS3lNaF9QNEV3Q0d2NHVXbmVLODJxaldxOXZDNzY0WjFJN1hkQmx6dl9ySlJqVWlCRWRqZGRzSVI3OHVhN04yTlBMUzdhYWtUN1JkbnVuNVA3bXI?oc=5
+
+---
+일부 지역은 1인당 35만원 민생지원금 지급을 시작했고, 저소득 아동은 디딤씨앗통장(자산형성 지원)도 확인해볼 만합니다.

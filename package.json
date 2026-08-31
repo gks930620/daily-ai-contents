@@ -1,0 +1,12 @@
+{
+  "name": "daily-ai-contents",
+  "version": "1.0.0",
+  "description": "매일 AI가 생성하는 10가지 생활 콘텐츠 (Claude Code 헤드리스 + GitHub Actions)",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "gen": "node scripts/generate.js",
+    "site": "node scripts/build-site.js",
+    "all": "node scripts/generate.js all && node scripts/build-site.js"
+  }
+}
