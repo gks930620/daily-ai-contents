@@ -29,14 +29,20 @@ const targets =
       });
 
 const date = todayKST();
-const weekday = weekdayKST();
-const ctx = { date, weekday, askJSON: async (prompt) => askClaudeJSON(prompt) };
+const weekday = weekdayKST(date);
+const inCI = !!process.env.GITHUB_ACTIONS;
 
 console.log(`=== ${date} (${weekday}) 콘텐츠 생성: ${targets.map((t) => t.slug).join(", ")} ===`);
 
 let ok = 0;
 let fail = 0;
 for (const topic of targets) {
+  // 발행 조건이 있는 주제(예: 주간 다이제스트는 일요일만)는 조용히 건너뜀
+  if (topic.when && !topic.when({ date, weekday })) {
+    console.log(`\n[${topic.slug}] 오늘은 발행일이 아니라 건너뜀`);
+    continue;
+  }
+  const ctx = { date, weekday, askJSON: async (prompt) => askClaudeJSON(prompt, topic.model ? { model: topic.model } : {}) };
   const t0 = Date.now();
   try {
     console.log(`\n[${topic.slug}] ${topic.emoji} ${topic.title} 생성 중...`);
@@ -50,8 +56,13 @@ for (const topic of targets) {
   } catch (e) {
     fail++;
     console.error(`[${topic.slug}] 실패: ${e.message}`);
+    if (inCI) console.log(`::warning::주제 ${topic.slug} 생성 실패: ${e.message}`);
   }
 }
 
 console.log(`\n=== 결과: 성공 ${ok} / 실패 ${fail} ===`);
-if (ok === 0) process.exit(1); // 전부 실패했을 때만 실패 처리 (부분 성공은 커밋되도록)
+if (ok === 0 && fail > 0) {
+  // 전부 실패했을 때만 실패 처리 (부분 성공은 커밋되도록) — 토큰 만료/한도 소진 가능성이 큼
+  if (inCI) console.log(`::error::${fail}개 주제 전부 실패 — 토큰 만료/한도 소진 여부를 확인하세요`);
+  process.exit(1);
+}

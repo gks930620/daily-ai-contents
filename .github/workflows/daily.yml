@@ -1,14 +1,22 @@
+# 매일 새벽 자동 생성 파이프라인
+#
+# cron은 UTC다: 18:00 UTC = KST 03:00 (다음날 새벽).
+# GitHub cron은 수십 분 지연될 수 있지만 새벽 3시 시작이라 아침 전 완료에 여유가 충분하다.
+# 인증은 구독 토큰(CLAUDE_CODE_OAUTH_TOKEN)만 사용한다 — API 키를 Secrets에 두지 말 것(종량 과금 방지).
 name: daily-contents
 
 on:
   schedule:
-    - cron: "30 21 * * *" # 매일 06:30 KST (21:30 UTC)
+    - cron: "0 18 * * *" # KST 03:00 매일 (주간 다이제스트는 일요일에만 스크립트가 판정)
   workflow_dispatch:
     inputs:
       topics:
         description: "생성할 주제 (all 또는 slug 나열, 예: weather mbti)"
         required: false
         default: "all"
+      date:
+        description: "KST 날짜 오버라이드 (YYYY-MM-DD, 백필·재생용. 비우면 오늘)"
+        required: false
 
 permissions:
   contents: write
@@ -20,38 +28,59 @@ concurrency:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 40
+    env:
+      DATE: ${{ inputs.date }}
     steps:
       - uses: actions/checkout@v4
+
+      # 실패의 최다 원인은 Secret 미등록 — 시작 전에 명확하게 걸러낸다
+      - name: 토큰 등록 확인
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: |
+          if [ -z "$CLAUDE_CODE_OAUTH_TOKEN" ]; then
+            echo "::error::CLAUDE_CODE_OAUTH_TOKEN Secret이 등록되지 않았습니다."
+            echo "::error::저장소 Settings → Secrets and variables → Actions → New repository secret 에서 등록하세요."
+            exit 1
+          fi
+          echo "토큰 확인 완료 (길이: ${#CLAUDE_CODE_OAUTH_TOKEN})"
 
       - uses: actions/setup-node@v4
         with:
           node-version: 22
 
-      - name: Install Claude Code CLI
-        run: npm install -g @anthropic-ai/claude-code
+      - name: Claude Code 설치
+        run: |
+          npm install -g @anthropic-ai/claude-code
+          claude --version # 설치가 깨졌으면 여기서 바로 실패
 
-      - name: Generate contents
-        run: node scripts/generate.js ${{ github.event.inputs.topics || 'all' }}
+      - name: 콘텐츠 생성
+        run: node scripts/generate.js ${{ inputs.topics || 'all' }}
         env:
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
-          CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL || 'claude-opus-5' }}
+          CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL || 'claude-sonnet-5' }}
 
-      - name: Build site
+      - name: 사이트 빌드
         run: node scripts/build-site.js
         env:
-          BASE_URL: ${{ vars.BASE_URL }}
+          BASE_URL: ${{ vars.BASE_URL || 'https://gks930620.github.io/daily-ai-contents' }}
           SITE_NAME: ${{ vars.SITE_NAME || 'AI 데일리' }}
 
-      - name: Commit & push
+      # 부분 실패여도 성공분은 커밋해 남긴다
+      - name: 커밋·푸시
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add content data docs
           if git diff --cached --quiet; then
-            echo "변경 사항 없음"
-          else
-            git commit -m "chore: daily contents $(TZ=Asia/Seoul date +%F)"
-            git pull --rebase origin ${{ github.ref_name }}
-            git push
+            echo "변경 없음 — 커밋 생략"
+            exit 0
           fi
+          git commit -m "auto: daily contents $(TZ=Asia/Seoul date +%F)"
+          # 반드시 "커밋 후" pull — 원격이 앞서 있으면 리베이스하고, 같은 파일이 양쪽에
+          # 있으면 이번 실행 산출물(-X theirs)이 이긴다. 1회 재시도 후에도 실패하면 크게 실패.
+          git pull --rebase -X theirs origin main \
+            || { git rebase --abort || true; git pull --rebase -X theirs origin main; }
+          git push origin main

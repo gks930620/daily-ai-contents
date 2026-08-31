@@ -7,14 +7,17 @@ export const DATA_DIR = path.join(ROOT, "data");
 export const CONTENT_DIR = path.join(ROOT, "content");
 export const DOCS_DIR = path.join(ROOT, "docs");
 
-/** 오늘 날짜 (KST 기준) — "YYYY-MM-DD" */
+/** 오늘 날짜 (KST 기준) — "YYYY-MM-DD". 환경변수 DATE로 오버라이드 가능(백필·재생용) */
 export function todayKST() {
+  if (/^\d{4}-\d{2}-\d{2}$/.test(process.env.DATE ?? "")) return process.env.DATE;
   return new Intl.DateTimeFormat("en-CA", { timeZone: "Asia/Seoul" }).format(new Date());
 }
 
-/** KST 기준 요일 ("월"~"일") */
-export function weekdayKST() {
-  return new Intl.DateTimeFormat("ko-KR", { timeZone: "Asia/Seoul", weekday: "short" }).format(new Date());
+/** 해당 날짜의 요일 ("월"~"일") — 인자 없으면 오늘(KST) */
+export function weekdayKST(dateStr = todayKST()) {
+  return new Intl.DateTimeFormat("ko-KR", { timeZone: "Asia/Seoul", weekday: "short" }).format(
+    new Date(`${dateStr}T12:00:00+09:00`)
+  );
 }
 
 export function ensureDir(dir) {

@@ -5,19 +5,25 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>데일리 상식 퀴즈 | 2026-08-31 | AI 데일리</title>
 <meta name="description" content="오늘의 카테고리: 과학·자연">
+<link rel="canonical" href="https://gks930620.github.io/daily-ai-contents/quiz/2026-08-31.html">
 <meta property="og:title" content="데일리 상식 퀴즈 | 2026-08-31 | AI 데일리">
 <meta property="og:description" content="오늘의 카테고리: 과학·자연">
 <meta property="og:type" content="article">
+<meta property="og:site_name" content="AI 데일리">
+<link rel="alternate" type="application/rss+xml" title="AI 데일리" href="../feed.xml">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"데일리 상식 퀴즈 — 2026-08-31","description":"오늘의 카테고리: 과학·자연","datePublished":"2026-08-31","author":{"@type":"Organization","name":"AI 데일리"}}</script>
 <style>
-:root{--bg:#faf9f7;--card:#ffffff;--ink:#1f2328;--sub:#6b7280;--line:#e7e4df;--accent:#4f6ef7;color-scheme:light}
+:root{--bg:#faf9f7;--card:#ffffff;--ink:#1f2328;--sub:#6b7280;--line:#e7e4df;--accent:#4f6ef7;--ok:#16a34a;--no:#dc2626;color-scheme:light}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--ink);font-family:'Apple SD Gothic Neo','Malgun Gothic',system-ui,sans-serif;line-height:1.7}
 a{color:inherit;text-decoration:none}
+button{font:inherit;cursor:pointer}
 .wrap{max-width:880px;margin:0 auto;padding:0 20px}
 header.site{border-bottom:1px solid var(--line);background:var(--card)}
 header.site .wrap{display:flex;align-items:center;justify-content:space-between;height:60px}
 .logo{font-weight:800;font-size:19px}
 .logo span{color:var(--accent)}
+.hdr-sub{font-size:12px;color:var(--sub)}
 nav.topics{border-bottom:1px solid var(--line);background:var(--card);overflow-x:auto;white-space:nowrap}
 nav.topics .wrap{padding:8px 20px;display:flex;gap:6px}
 nav.topics a{font-size:13px;color:var(--sub);padding:5px 11px;border-radius:99px;border:1px solid var(--line)}
@@ -43,64 +49,83 @@ article hr{border:0;border-top:1px solid var(--line);margin:22px 0}
 .archive{padding:0;margin:0}
 .crumb{font-size:13px;color:var(--sub);margin-bottom:14px}
 .crumb a{color:var(--accent)}
-footer.site{border-top:1px solid var(--line);color:var(--sub);font-size:13px;padding:22px 0;text-align:center}
-@media(max-width:560px){article{padding:22px 18px}}
+.pn{display:flex;justify-content:space-between;gap:10px;margin-top:18px;font-size:14px}
+.pn a{color:var(--accent);background:var(--card);border:1px solid var(--line);border-radius:10px;padding:8px 14px}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chips a{font-size:13px;border:1px solid var(--line);background:var(--card);border-radius:99px;padding:4px 11px}
+.chips a:hover{border-color:var(--accent);color:var(--accent)}
+/* 퀴즈 */
+.choices{display:grid;gap:8px;margin:10px 0}
+.choices button{text-align:left;background:var(--bg);border:1px solid var(--line);border-radius:10px;padding:10px 14px}
+.choices button:hover:not(:disabled){border-color:var(--accent)}
+.choices button.ok{border-color:var(--ok);background:#f0fdf4;font-weight:700}
+.choices button.no{border-color:var(--no);background:#fef2f2;opacity:.8}
+.choices button:disabled{cursor:default}
+.expl{background:var(--bg);border-radius:10px;padding:10px 14px;font-size:14.5px}
+.qz-score{font-weight:800;font-size:17px;text-align:center;background:var(--bg);border-radius:12px;padding:14px}
+/* 밸런스 */
+.vs{display:grid;grid-template-columns:1fr auto 1fr;gap:10px;align-items:stretch;margin:16px 0}
+.vs .vote{border:2px solid var(--line);background:var(--bg);border-radius:14px;padding:18px 14px;font-size:15px;font-weight:700;line-height:1.5}
+.vs .vote:hover{border-color:var(--accent)}
+.vs .vote.picked{border-color:var(--accent);background:#eef2ff}
+.vs .mid{align-self:center;font-weight:800;color:var(--sub)}
+.my-pick{text-align:center;font-weight:700;color:var(--accent)}
+/* MBTI */
+.mb-tabs{display:flex;flex-wrap:wrap;gap:6px;margin:14px 0 20px}
+.mb-tabs button{border:1px solid var(--line);background:var(--bg);border-radius:99px;padding:5px 12px;font-size:13px}
+.mb-tabs button.on{background:var(--accent);border-color:var(--accent);color:#fff}
+@media(max-width:560px){article{padding:22px 18px}.vs{grid-template-columns:1fr;gap:8px}.vs .mid{justify-self:center}}
 </style>
 </head>
 <body>
-<header class="site"><div class="wrap"><a class="logo" href="../index.html">📅 <span>AI 데일리</span></a><span style="font-size:12px;color:var(--sub)">매일 아침 AI가 만드는 10가지 콘텐츠</span></div></header>
+<header class="site"><div class="wrap"><a class="logo" href="../index.html">📅 <span>AI 데일리</span></a><a class="hdr-sub" href="../archive/">지난 콘텐츠 전체 보기 →</a></div></header>
 <nav class="topics"><div class="wrap"><a class="" href="../weather/">🌤️ 날씨 생활지수</a><a class="" href="../welfare/">🏛️ 정부 지원금·정책 브리핑</a><a class="" href="../dream/">🌙 꿈해몽 사전</a><a class="" href="../mbti/">🎭 MBTI별 오늘의 조언</a><a class="" href="../book/">📚 하루 한 권 책 요약</a><a class="on" href="../quiz/">🧠 데일리 상식 퀴즈</a><a class="" href="../history/">📜 역사 속 오늘</a><a class="" href="../korean/">✏️ 오늘의 맞춤법</a><a class="" href="../dinner/">🍽️ 오늘 뭐 먹지</a><a class="" href="../balance/">⚖️ 오늘의 밸런스 게임</a></div></nav>
 <main><div class="wrap">
 <div class="crumb"><a href="../index.html">홈</a> › <a href="./">🧠 데일리 상식 퀴즈</a> › 2026-08-31</div>
 <article>
 <h1>🧠 데일리 상식 퀴즈 — 2026-08-31</h1>
-<blockquote>오늘의 카테고리: <strong>과학·자연</strong></blockquote>
-<h2>Q1. 지구 대기에서 부피 기준으로 가장 많은 비중을 차지하는 기체는? (쉬움)</h2>
-<ul>
-<li>1) 산소</li>
-<li>2) 질소</li>
-<li>3) 아르곤</li>
-<li>4) 이산화탄소</li>
-</ul>
-<h2>Q2. 박쥐, 고래, 돌고래의 공통점으로 옳은 것은? (쉬움)</h2>
-<ul>
-<li>1) 모두 알을 낳는다</li>
-<li>2) 모두 젖을 먹여 새끼를 키우는 포유류다</li>
-<li>3) 모두 아가미로 호흡한다</li>
-<li>4) 모두 변온동물이다</li>
-</ul>
-<h2>Q3. 물이 얼면 부피가 늘어나 얼음이 물에 뜨는 이유는? (보통)</h2>
-<ul>
-<li>1) 얼음 속에 공기 방울이 갇히기 때문</li>
-<li>2) 분자가 수소 결합으로 육각형 빈 공간 구조를 이루기 때문</li>
-<li>3) 온도가 낮아지면 분자 질량이 줄어들기 때문</li>
-<li>4) 얼면서 물 분자가 산소와 수소로 분해되기 때문</li>
-</ul>
-<h2>Q4. 달이 항상 지구를 향해 같은 면만 보여주는 현상을 무엇이라 하는가? (보통)</h2>
-<ul>
-<li>1) 세차 운동</li>
-<li>2) 조석 고정(동주기 자전)</li>
-<li>3) 춘분점 이동</li>
-<li>4) 자기권 역전</li>
-</ul>
-<h2>Q5. 광합성에서 식물이 방출하는 산소(O₂)의 산소 원자는 원래 어느 물질에서 온 것인가? (어려움)</h2>
-<ul>
-<li>1) 이산화탄소</li>
-<li>2) 물</li>
-<li>3) 포도당</li>
-<li>4) 질산염</li>
-</ul>
-<hr>
-<h2>정답과 해설</h2>
-<ul>
-<li><strong>Q1 정답: 2) 질소</strong> — 건조 공기의 부피 조성은 질소가 약 78%, 산소가 약 21%로 질소가 압도적으로 많습니다. 세 번째로 많은 기체는 이산화탄소가 아니라 비활성 기체인 아르곤(약 0.93%)이며, 이산화탄소는 0.04% 수준에 불과합니다.</li>
-<li><strong>Q2 정답: 2) 모두 젖을 먹여 새끼를 키우는 포유류다</strong> — 박쥐는 하늘을 날고 고래와 돌고래는 물속에 살지만, 셋 다 새끼를 낳아 젖을 먹이는 포유류입니다. 고래류는 폐로 호흡하기 때문에 주기적으로 수면 위로 올라와 숨을 쉬어야 하며, 박쥐는 스스로 날 수 있는 유일한 포유류입니다.</li>
-<li><strong>Q3 정답: 2) 분자가 수소 결합으로 육각형 빈 공간 구조를 이루기 때문</strong> — 물 분자는 얼 때 수소 결합에 의해 규칙적인 육각형 결정 구조를 만드는데, 이 구조에 빈 공간이 생겨 액체 상태보다 밀도가 약 9% 낮아집니다. 덕분에 얼음이 수면에 떠서 단열층 역할을 하고, 겨울에도 호수 바닥의 생물들이 살아남을 수 있습니다.</li>
-<li><strong>Q4 정답: 2) 조석 고정(동주기 자전)</strong> — 달의 자전 주기와 공전 주기가 약 27.3일로 같아진 조석 고정(tidal locking) 상태이기 때문에 지구에서는 늘 같은 면만 보입니다. 이는 지구의 기조력이 오랜 시간 달의 자전을 늦춘 결과이며, 나머지 뒷면은 1959년 소련의 루나 3호가 처음 촬영했습니다.</li>
-<li><strong>Q5 정답: 2) 물</strong> — 광합성에서 방출되는 산소는 이산화탄소가 아니라 물(H₂O)이 명반응에서 광분해될 때 나옵니다. 1941년 루벤과 카멘이 산소 동위원소 ¹⁸O로 표지한 물을 사용해 이 사실을 증명했으며, 이산화탄소의 산소는 포도당과 물을 만드는 데 쓰입니다.</li>
-</ul>
+<blockquote>오늘의 카테고리: <strong>과학·자연</strong> · 보기를 눌러 정답을 확인하세요</blockquote>
+<section class="qz" data-answer="1">
+<h2>Q1. 지구 대기에서 부피 기준으로 가장 많은 비중을 차지하는 기체는? <small style="color:var(--sub);font-weight:400">(쉬움)</small></h2>
+<div class="choices"><button type="button" data-i="0">1) 산소</button><button type="button" data-i="1">2) 질소</button><button type="button" data-i="2">3) 아르곤</button><button type="button" data-i="3">4) 이산화탄소</button></div>
+<p class="expl" hidden><strong>정답: 2) 질소</strong> — 건조 공기의 부피 조성은 질소가 약 78%, 산소가 약 21%로 질소가 압도적으로 많습니다. 세 번째로 많은 기체는 이산화탄소가 아니라 비활성 기체인 아르곤(약 0.93%)이며, 이산화탄소는 0.04% 수준에 불과합니다.</p>
+</section>
+<section class="qz" data-answer="1">
+<h2>Q2. 박쥐, 고래, 돌고래의 공통점으로 옳은 것은? <small style="color:var(--sub);font-weight:400">(쉬움)</small></h2>
+<div class="choices"><button type="button" data-i="0">1) 모두 알을 낳는다</button><button type="button" data-i="1">2) 모두 젖을 먹여 새끼를 키우는 포유류다</button><button type="button" data-i="2">3) 모두 아가미로 호흡한다</button><button type="button" data-i="3">4) 모두 변온동물이다</button></div>
+<p class="expl" hidden><strong>정답: 2) 모두 젖을 먹여 새끼를 키우는 포유류다</strong> — 박쥐는 하늘을 날고 고래와 돌고래는 물속에 살지만, 셋 다 새끼를 낳아 젖을 먹이는 포유류입니다. 고래류는 폐로 호흡하기 때문에 주기적으로 수면 위로 올라와 숨을 쉬어야 하며, 박쥐는 스스로 날 수 있는 유일한 포유류입니다.</p>
+</section>
+<section class="qz" data-answer="1">
+<h2>Q3. 물이 얼면 부피가 늘어나 얼음이 물에 뜨는 이유는? <small style="color:var(--sub);font-weight:400">(보통)</small></h2>
+<div class="choices"><button type="button" data-i="0">1) 얼음 속에 공기 방울이 갇히기 때문</button><button type="button" data-i="1">2) 분자가 수소 결합으로 육각형 빈 공간 구조를 이루기 때문</button><button type="button" data-i="2">3) 온도가 낮아지면 분자 질량이 줄어들기 때문</button><button type="button" data-i="3">4) 얼면서 물 분자가 산소와 수소로 분해되기 때문</button></div>
+<p class="expl" hidden><strong>정답: 2) 분자가 수소 결합으로 육각형 빈 공간 구조를 이루기 때문</strong> — 물 분자는 얼 때 수소 결합에 의해 규칙적인 육각형 결정 구조를 만드는데, 이 구조에 빈 공간이 생겨 액체 상태보다 밀도가 약 9% 낮아집니다. 덕분에 얼음이 수면에 떠서 단열층 역할을 하고, 겨울에도 호수 바닥의 생물들이 살아남을 수 있습니다.</p>
+</section>
+<section class="qz" data-answer="1">
+<h2>Q4. 달이 항상 지구를 향해 같은 면만 보여주는 현상을 무엇이라 하는가? <small style="color:var(--sub);font-weight:400">(보통)</small></h2>
+<div class="choices"><button type="button" data-i="0">1) 세차 운동</button><button type="button" data-i="1">2) 조석 고정(동주기 자전)</button><button type="button" data-i="2">3) 춘분점 이동</button><button type="button" data-i="3">4) 자기권 역전</button></div>
+<p class="expl" hidden><strong>정답: 2) 조석 고정(동주기 자전)</strong> — 달의 자전 주기와 공전 주기가 약 27.3일로 같아진 조석 고정(tidal locking) 상태이기 때문에 지구에서는 늘 같은 면만 보입니다. 이는 지구의 기조력이 오랜 시간 달의 자전을 늦춘 결과이며, 나머지 뒷면은 1959년 소련의 루나 3호가 처음 촬영했습니다.</p>
+</section>
+<section class="qz" data-answer="1">
+<h2>Q5. 광합성에서 식물이 방출하는 산소(O₂)의 산소 원자는 원래 어느 물질에서 온 것인가? <small style="color:var(--sub);font-weight:400">(어려움)</small></h2>
+<div class="choices"><button type="button" data-i="0">1) 이산화탄소</button><button type="button" data-i="1">2) 물</button><button type="button" data-i="2">3) 포도당</button><button type="button" data-i="3">4) 질산염</button></div>
+<p class="expl" hidden><strong>정답: 2) 물</strong> — 광합성에서 방출되는 산소는 이산화탄소가 아니라 물(H₂O)이 명반응에서 광분해될 때 나옵니다. 1941년 루벤과 카멘이 산소 동위원소 ¹⁸O로 표지한 물을 사용해 이 사실을 증명했으며, 이산화탄소의 산소는 포도당과 물을 만드는 데 쓰입니다.</p>
+</section>
+<p class="qz-score" id="qz-score" hidden></p>
 </article>
+<div class="pn"><span></span><a href="./">목록</a><span><a href="./2026-09-01.html">2026-09-01 →</a></span></div>
 </div></main>
-<footer class="site">매일 06:30 자동 생성 · Powered by Claude</footer>
+<footer class="site" style="border-top:1px solid var(--line);color:var(--sub);font-size:13px;padding:22px 0;text-align:center">매일 새벽 자동 생성 · Powered by Claude · <a href="../feed.xml" style="color:var(--accent)">RSS</a></footer>
+<script>
+var secs=[].slice.call(document.querySelectorAll('.qz')),done=0,score=0;
+secs.forEach(function(sec){
+  var ans=+sec.dataset.answer,btns=[].slice.call(sec.querySelectorAll('button'));
+  btns.forEach(function(b){b.addEventListener('click',function(){
+    if(sec.dataset.done)return;sec.dataset.done='1';done++;
+    var i=+b.dataset.i;if(i===ans){score++;b.classList.add('ok');}else{b.classList.add('no');btns[ans].classList.add('ok');}
+    btns.forEach(function(x){x.disabled=true});
+    sec.querySelector('.expl').hidden=false;
+    if(done===secs.length){var s=document.getElementById('qz-score');s.textContent='최종 점수: '+score+' / '+secs.length+(score===secs.length?' 🎉 만점!':score>=3?' 👍 좋아요!':' 내일 다시 도전!');s.hidden=false;}
+  })});
+});</script>
 </body>
 </html>

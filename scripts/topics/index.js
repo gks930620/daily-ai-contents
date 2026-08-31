@@ -8,9 +8,10 @@ import history from "./history.js";
 import korean from "./korean.js";
 import dinner from "./dinner.js";
 import balance from "./balance.js";
+import weekly from "./weekly.js";
 
 /** 사이트 노출 순서 = 이 배열 순서 */
-export const TOPICS = [weather, welfare, dream, mbti, book, quiz, history, korean, dinner, balance];
+export const TOPICS = [weekly, weather, welfare, dream, mbti, book, quiz, history, korean, dinner, balance];
 
 export function findTopic(slug) {
   return TOPICS.find((t) => t.slug === slug);

@@ -1,6 +1,8 @@
 # daily-ai-contents
 
-매일 아침 06:30(KST), AI(Claude)가 **10가지 생활 콘텐츠**를 자동 생성하고 정적 사이트로 배포하는 프로젝트.
+매일 새벽 03:00(KST), AI(Claude)가 **10가지 생활 콘텐츠**(+일요일 주간 다이제스트)를 자동 생성하고 정적 사이트로 배포하는 프로젝트.
+
+라이브: https://gks930620.github.io/daily-ai-contents/
 
 | # | 주제 | 설명 | 데이터 소스 |
 |---|---|---|---|
@@ -14,11 +16,16 @@
 | ✏️ | 오늘의 맞춤법 | 헷갈리는 표현 하나씩 (40개 로테이션) | 주제 큐 |
 | 🍽️ | 오늘 뭐 먹지 | 계절·요일 반영 저녁 메뉴 3종 + 레시피 (중복 방지) | — |
 | ⚖️ | 밸런스 게임 | 매일 1개 + AI 양측 변론 (중복 방지) | — |
+| 🗞️ | 주간 다이제스트 | 일요일에만, 한 주 콘텐츠 되돌아보기 (opus 사용) | 그 주의 content/ |
+
+**사이트 기능**: 퀴즈는 클릭해서 풀고 점수 확인 · 밸런스 게임은 내 선택 투표(브라우저 저장) ·
+MBTI는 내 유형 탭 선택(기억됨) · **꿈해몽 키워드 사전**(가나다순 누적, `/dream/dictionary.html`) ·
+날짜별 전체 아카이브 · 이전/다음 날짜 이동 · RSS 피드(`/feed.xml`) · sitemap + JSON-LD(SEO)
 
 ## 아키텍처
 
 ```
-GitHub Actions (매일 21:30 UTC = 06:30 KST)
+GitHub Actions (매일 18:00 UTC = 03:00 KST — GitHub cron 지연 대비 새벽 실행)
   └─ scripts/generate.js all
        ├─ 주제별 데이터 수집 (Open-Meteo / RSS / 큐 파일)
        ├─ Claude Code CLI 헤드리스 호출 (claude -p) → JSON
@@ -42,20 +49,21 @@ gh repo create daily-ai-contents --public --source=. --push
 
 ### 2. 시크릿 등록 (필수)
 저장소 → Settings → Secrets and variables → Actions → **Secrets**:
-- `CLAUDE_CODE_OAUTH_TOKEN` — `claude setup-token` 명령으로 발급한 토큰 (sk-ant-oat01-…)
+- `CLAUDE_CODE_OAUTH_TOKEN` — `claude setup-token` 명령으로 발급한 구독 토큰 (sk-ant-oat01-…)
+- ⚠️ **API 키(sk-ant-api…)를 넣지 말 것** — 구독 대신 종량 과금으로 돌아간다
 
 ### 3. 변수 등록 (선택)
 같은 화면의 **Variables**:
 - `BASE_URL` — 배포 주소 (예: `https://<계정>.github.io/daily-ai-contents`) → sitemap/canonical 생성됨
 - `SITE_NAME` — 사이트 이름 (기본: `AI 데일리`)
-- `CLAUDE_MODEL` — 기본 `claude-opus-5`, 비용 절약 시 `claude-sonnet-5`
+- `CLAUDE_MODEL` — 기본 `claude-sonnet-5` (데일리 대량 생성에 opus를 쓰면 구독 한도가 빠르게 소진됨 — daily_fortune 운영 교훈). 주간 다이제스트만 개별적으로 opus 사용
 
 ### 4. GitHub Pages 켜기
 저장소 → Settings → Pages → Source: `Deploy from a branch`, Branch: `main` / 폴더 `/docs`
 
 ### 5. 첫 실행
 Actions 탭 → `daily-contents` → **Run workflow** (topics: `all`)
-이후엔 매일 06:30 KST 자동 실행.
+이후엔 매일 03:00 KST 자동 실행. 특정 날짜 백필은 Run workflow의 `date` 입력 사용.
 
 ## 로컬 실행
 

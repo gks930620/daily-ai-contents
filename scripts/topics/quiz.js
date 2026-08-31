@@ -48,6 +48,15 @@ JSON 스키마:
 questions는 정확히 5개.`;
 
     const json = await askJSON(prompt);
+    // LLM은 정답을 특정 위치에 몰아넣는 편향이 있어(실측: 5문제 전부 2번) 코드에서 셔플한다
+    for (const q of json.questions ?? []) {
+      const correct = q.choices[q.answer_index];
+      for (let i = q.choices.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [q.choices[i], q.choices[j]] = [q.choices[j], q.choices[i]];
+      }
+      q.answer_index = q.choices.indexOf(correct);
+    }
     const md = [
       `# 🧠 데일리 상식 퀴즈 — ${date}`,
       "",

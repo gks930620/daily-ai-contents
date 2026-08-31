@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://gks930620.github.io/daily-ai-contents/sitemap.xml

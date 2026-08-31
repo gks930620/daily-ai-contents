@@ -5,19 +5,25 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>MBTI별 오늘의 조언 | 2026-08-31 | AI 데일리</title>
 <meta name="description" content="월요일 아침의 공백은 채워야 할 칸이 아니라, 아직 아무도 손대지 않은 여백이다.">
+<link rel="canonical" href="https://gks930620.github.io/daily-ai-contents/mbti/2026-08-31.html">
 <meta property="og:title" content="MBTI별 오늘의 조언 | 2026-08-31 | AI 데일리">
 <meta property="og:description" content="월요일 아침의 공백은 채워야 할 칸이 아니라, 아직 아무도 손대지 않은 여백이다.">
 <meta property="og:type" content="article">
+<meta property="og:site_name" content="AI 데일리">
+<link rel="alternate" type="application/rss+xml" title="AI 데일리" href="../feed.xml">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"MBTI별 오늘의 조언 — 2026-08-31","description":"월요일 아침의 공백은 채워야 할 칸이 아니라, 아직 아무도 손대지 않은 여백이다.","datePublished":"2026-08-31","author":{"@type":"Organization","name":"AI 데일리"}}</script>
 <style>
-:root{--bg:#faf9f7;--card:#ffffff;--ink:#1f2328;--sub:#6b7280;--line:#e7e4df;--accent:#4f6ef7;color-scheme:light}
+:root{--bg:#faf9f7;--card:#ffffff;--ink:#1f2328;--sub:#6b7280;--line:#e7e4df;--accent:#4f6ef7;--ok:#16a34a;--no:#dc2626;color-scheme:light}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--ink);font-family:'Apple SD Gothic Neo','Malgun Gothic',system-ui,sans-serif;line-height:1.7}
 a{color:inherit;text-decoration:none}
+button{font:inherit;cursor:pointer}
 .wrap{max-width:880px;margin:0 auto;padding:0 20px}
 header.site{border-bottom:1px solid var(--line);background:var(--card)}
 header.site .wrap{display:flex;align-items:center;justify-content:space-between;height:60px}
 .logo{font-weight:800;font-size:19px}
 .logo span{color:var(--accent)}
+.hdr-sub{font-size:12px;color:var(--sub)}
 nav.topics{border-bottom:1px solid var(--line);background:var(--card);overflow-x:auto;white-space:nowrap}
 nav.topics .wrap{padding:8px 20px;display:flex;gap:6px}
 nav.topics a{font-size:13px;color:var(--sub);padding:5px 11px;border-radius:99px;border:1px solid var(--line)}
@@ -43,116 +49,179 @@ article hr{border:0;border-top:1px solid var(--line);margin:22px 0}
 .archive{padding:0;margin:0}
 .crumb{font-size:13px;color:var(--sub);margin-bottom:14px}
 .crumb a{color:var(--accent)}
-footer.site{border-top:1px solid var(--line);color:var(--sub);font-size:13px;padding:22px 0;text-align:center}
-@media(max-width:560px){article{padding:22px 18px}}
+.pn{display:flex;justify-content:space-between;gap:10px;margin-top:18px;font-size:14px}
+.pn a{color:var(--accent);background:var(--card);border:1px solid var(--line);border-radius:10px;padding:8px 14px}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chips a{font-size:13px;border:1px solid var(--line);background:var(--card);border-radius:99px;padding:4px 11px}
+.chips a:hover{border-color:var(--accent);color:var(--accent)}
+/* 퀴즈 */
+.choices{display:grid;gap:8px;margin:10px 0}
+.choices button{text-align:left;background:var(--bg);border:1px solid var(--line);border-radius:10px;padding:10px 14px}
+.choices button:hover:not(:disabled){border-color:var(--accent)}
+.choices button.ok{border-color:var(--ok);background:#f0fdf4;font-weight:700}
+.choices button.no{border-color:var(--no);background:#fef2f2;opacity:.8}
+.choices button:disabled{cursor:default}
+.expl{background:var(--bg);border-radius:10px;padding:10px 14px;font-size:14.5px}
+.qz-score{font-weight:800;font-size:17px;text-align:center;background:var(--bg);border-radius:12px;padding:14px}
+/* 밸런스 */
+.vs{display:grid;grid-template-columns:1fr auto 1fr;gap:10px;align-items:stretch;margin:16px 0}
+.vs .vote{border:2px solid var(--line);background:var(--bg);border-radius:14px;padding:18px 14px;font-size:15px;font-weight:700;line-height:1.5}
+.vs .vote:hover{border-color:var(--accent)}
+.vs .vote.picked{border-color:var(--accent);background:#eef2ff}
+.vs .mid{align-self:center;font-weight:800;color:var(--sub)}
+.my-pick{text-align:center;font-weight:700;color:var(--accent)}
+/* MBTI */
+.mb-tabs{display:flex;flex-wrap:wrap;gap:6px;margin:14px 0 20px}
+.mb-tabs button{border:1px solid var(--line);background:var(--bg);border-radius:99px;padding:5px 12px;font-size:13px}
+.mb-tabs button.on{background:var(--accent);border-color:var(--accent);color:#fff}
+@media(max-width:560px){article{padding:22px 18px}.vs{grid-template-columns:1fr;gap:8px}.vs .mid{justify-self:center}}
 </style>
 </head>
 <body>
-<header class="site"><div class="wrap"><a class="logo" href="../index.html">📅 <span>AI 데일리</span></a><span style="font-size:12px;color:var(--sub)">매일 아침 AI가 만드는 10가지 콘텐츠</span></div></header>
+<header class="site"><div class="wrap"><a class="logo" href="../index.html">📅 <span>AI 데일리</span></a><a class="hdr-sub" href="../archive/">지난 콘텐츠 전체 보기 →</a></div></header>
 <nav class="topics"><div class="wrap"><a class="" href="../weather/">🌤️ 날씨 생활지수</a><a class="" href="../welfare/">🏛️ 정부 지원금·정책 브리핑</a><a class="" href="../dream/">🌙 꿈해몽 사전</a><a class="on" href="../mbti/">🎭 MBTI별 오늘의 조언</a><a class="" href="../book/">📚 하루 한 권 책 요약</a><a class="" href="../quiz/">🧠 데일리 상식 퀴즈</a><a class="" href="../history/">📜 역사 속 오늘</a><a class="" href="../korean/">✏️ 오늘의 맞춤법</a><a class="" href="../dinner/">🍽️ 오늘 뭐 먹지</a><a class="" href="../balance/">⚖️ 오늘의 밸런스 게임</a></div></nav>
 <main><div class="wrap">
 <div class="crumb"><a href="../index.html">홈</a> › <a href="./">🎭 MBTI별 오늘의 조언</a> › 2026-08-31</div>
 <article>
 <h1>🎭 MBTI별 오늘의 조언 — 2026-08-31</h1>
-<blockquote>오늘의 테마: 월요일 아침의 공백은 채워야 할 칸이 아니라, 아직 아무도 손대지 않은 여백이다.</blockquote>
+<blockquote>오늘의 테마: 월요일 아침의 공백은 채워야 할 칸이 아니라, 아직 아무도 손대지 않은 여백이다. · 내 유형을 누르면 바로 볼 수 있어요</blockquote>
+<div class="mb-tabs"><button type="button" data-t="all" class="on">전체</button><button type="button" data-t="ISTJ">ISTJ</button><button type="button" data-t="ISFJ">ISFJ</button><button type="button" data-t="INFJ">INFJ</button><button type="button" data-t="INTJ">INTJ</button><button type="button" data-t="ISTP">ISTP</button><button type="button" data-t="ISFP">ISFP</button><button type="button" data-t="INFP">INFP</button><button type="button" data-t="INTP">INTP</button><button type="button" data-t="ESTP">ESTP</button><button type="button" data-t="ESFP">ESFP</button><button type="button" data-t="ENFP">ENFP</button><button type="button" data-t="ENTP">ENTP</button><button type="button" data-t="ESTJ">ESTJ</button><button type="button" data-t="ESFJ">ESFJ</button><button type="button" data-t="ENFJ">ENFJ</button><button type="button" data-t="ENTJ">ENTJ</button></div>
+<section class="mb" data-type="ISTJ">
 <h2>ISTJ</h2>
 <ul>
 <li><strong>조언</strong> 주말 동안 밀린 일이 머릿속에서 이미 목록으로 정렬돼 있을 텐데, 오늘은 그 목록의 3번까지만 손대세요. 완결되지 않은 채로 하루를 끝내는 연습이 이번 주 전체의 체력을 지켜줍니다.</li>
 <li><strong>주의</strong> &#39;원래 이렇게 하던 방식&#39;이 이번 주엔 통하지 않을 수 있습니다. 절차가 막히면 규정보다 목적을 먼저 확인하세요.</li>
 <li><strong>행운 포인트</strong> 오전 9시 전, 종이에 손으로 쓴 체크리스트</li>
 </ul>
+</section>
+<section class="mb" data-type="ISFJ">
 <h2>ISFJ</h2>
 <ul>
 <li><strong>조언</strong> 월요일엔 유독 남의 컨디션이 먼저 눈에 들어오죠. 오늘은 누군가 부탁하기 전에 미리 챙기는 일을 딱 한 번만 참아보세요. 그 사람은 생각보다 스스로 잘 해냅니다.</li>
 <li><strong>주의</strong> 괜찮다고 말하고 나서 혼자 서운해지는 패턴. 하기 싫으면 오늘은 표정 말고 말로 하세요.</li>
 <li><strong>행운 포인트</strong> 점심시간, 혼자 먹는 따뜻한 국물</li>
 </ul>
+</section>
+<section class="mb" data-type="INFJ">
 <h2>INFJ</h2>
 <ul>
 <li><strong>조언</strong> 한 주가 시작되면 벌써 금요일까지의 시나리오가 다 그려지는 편인데, 오늘은 예측을 멈추고 실제로 벌어진 일만 다루세요. 상상 속 갈등에 쓸 에너지를 실제 대화 한 번에 몰아주면 훨씬 멀리 갑니다.</li>
 <li><strong>주의</strong> 의미를 못 찾겠는 일이 하나쯤 생깁니다. 그걸 굳이 해석하려다 하루를 다 씁니다.</li>
 <li><strong>행운 포인트</strong> 해 질 무렵 혼자 걷는 15분</li>
 </ul>
+</section>
+<section class="mb" data-type="INTJ">
 <h2>INTJ</h2>
 <ul>
 <li><strong>조언</strong> 이번 주 계획의 완성도를 90%까지 끌어올리려는 충동이 들 텐데, 오늘은 60%에서 일단 실행에 넘기세요. 월요일에 굴러가기 시작한 계획이 목요일에 완벽한 계획을 이깁니다.</li>
 <li><strong>주의</strong> 비효율을 지적하는 말이 사실 관계상 맞더라도, 월요일 오전에 하면 내용이 아니라 태도만 기억됩니다.</li>
 <li><strong>행운 포인트</strong> 쓰던 계획 문서를 새로 만들지 않고 그대로 여는 것</li>
 </ul>
+</section>
+<section class="mb" data-type="ISTP">
 <h2>ISTP</h2>
 <ul>
 <li><strong>조언</strong> 말로 설명하라고 하면 답답한 일도, 손으로 한 번 만져보면 5분 만에 파악되죠. 오늘은 회의에서 논의만 길어지는 문제를 직접 열어보는 쪽으로 가세요. 당신이 제일 빠릅니다.</li>
 <li><strong>주의</strong> 흥미가 식은 일을 조용히 방치하는 것. 안 하겠다고 말하는 게 안 하고 있는 것보다 낫습니다.</li>
 <li><strong>행운 포인트</strong> 직접 분해하거나 고칠 수 있는 물건</li>
 </ul>
+</section>
+<section class="mb" data-type="ISFP">
 <h2>ISFP</h2>
 <ul>
 <li><strong>조언</strong> 월요일의 소음 속에서 자기 리듬을 잃기 쉬운 날입니다. 책상이든 플레이리스트든, 내 감각에 맞는 걸 하나만 세팅해두면 나머지 일곱 시간이 견딜 만해집니다.</li>
 <li><strong>주의</strong> 결정을 미루면 남이 대신 정해줍니다. 오늘은 취향 문제만큼은 먼저 말하세요.</li>
 <li><strong>행운 포인트</strong> 오늘 처음 입어보는 색 조합</li>
 </ul>
+</section>
+<section class="mb" data-type="INFP">
 <h2>INFP</h2>
 <ul>
 <li><strong>조언</strong> 주말과 월요일 사이의 낙차가 가장 큰 유형입니다. 오늘은 하고 싶은 일이 아니라 &#39;시작만 하면 되는 일&#39; 하나를 골라 5분만 손대세요. 마음이 준비되길 기다리면 수요일이 됩니다.</li>
 <li><strong>주의</strong> 지나가는 말 한마디를 오후 내내 곱씹는 것. 그 사람은 이미 잊었습니다.</li>
 <li><strong>행운 포인트</strong> 아무도 안 볼 메모장에 쓰는 문장 한 줄</li>
 </ul>
+</section>
+<section class="mb" data-type="INTP">
 <h2>INTP</h2>
 <ul>
 <li><strong>조언</strong> 흥미로운 곁가지가 오늘 최소 두 개는 나타납니다. 하나는 따라가고 하나는 메모만 해두세요. 두 개 다 파면 월요일에 끝냈어야 할 것이 금요일에도 안 끝납니다.</li>
 <li><strong>주의</strong> 머릿속에서 이미 다 해결된 일을 아직 아무한테도 말 안 한 상태. 공유 안 된 결론은 존재하지 않습니다.</li>
 <li><strong>행운 포인트</strong> 탭을 정리하지 않고 그냥 두는 관대함</li>
 </ul>
+</section>
+<section class="mb" data-type="ESTP">
 <h2>ESTP</h2>
 <ul>
 <li><strong>조언</strong> 한 주의 첫날부터 속도를 낼 수 있는 몇 안 되는 유형이죠. 다만 오늘은 첫 30분을 상황 파악에 쓰세요. 방향만 맞으면 당신 속도로 이번 주가 통째로 앞당겨집니다.</li>
 <li><strong>주의</strong> &#39;일단 해보고 아니면 말고&#39;가 오늘은 되돌리기 비싼 선택일 수 있습니다.</li>
 <li><strong>행운 포인트</strong> 점심 후 짧게 몸을 움직이는 10분</li>
 </ul>
+</section>
+<section class="mb" data-type="ESFP">
 <h2>ESFP</h2>
 <ul>
 <li><strong>조언</strong> 칙칙한 월요일 사무실 분위기를 바꿀 수 있는 사람이 오늘은 당신입니다. 근데 그 에너지를 오전에 다 쓰지 말고, 다들 늘어지는 오후 3시에 아껴뒀다 쓰세요.</li>
 <li><strong>주의</strong> 재밌는 쪽으로 계속 옮겨 다니다 보면 정작 마감이 붙은 일 하나가 남습니다. 그건 오전에 처리하세요.</li>
 <li><strong>행운 포인트</strong> 오후 3시, 누군가와 나눠 먹는 간식</li>
 </ul>
+</section>
+<section class="mb" data-type="ENFP">
 <h2>ENFP</h2>
 <ul>
 <li><strong>조언</strong> 월요일마다 새 아이디어가 터지는 게 당신의 패턴이자 함정입니다. 오늘 떠오른 것들 중 딱 하나만 골라서 이번 주 내내 붙들어보세요. 시작한 열 개보다 끝낸 하나가 당신을 더 신나게 합니다.</li>
 <li><strong>주의</strong> 지난주에 벌여둔 일이 조용히 기다리고 있습니다. 새 판 벌이기 전에 그것부터 확인하세요.</li>
 <li><strong>행운 포인트</strong> 오래 연락 안 한 사람에게 보내는 짧은 안부</li>
 </ul>
+</section>
+<section class="mb" data-type="ENTP">
 <h2>ENTP</h2>
 <ul>
 <li><strong>조언</strong> 월요일 회의에서 누군가의 계획에 구멍이 보이면, 지적 대신 대안을 붙여서 말하세요. 당신은 구멍을 찾는 속도만큼 메우는 아이디어도 빠른데, 사람들은 앞부분만 듣습니다.</li>
 <li><strong>주의</strong> 논쟁이 재밌어서 계속 끌고 가는 것. 이긴 다음에 남는 게 뭔지 한 번만 생각하세요.</li>
 <li><strong>행운 포인트</strong> 반박당했을 때 곧바로 하는 &#39;어 그러네&#39; 한마디</li>
 </ul>
+</section>
+<section class="mb" data-type="ESTJ">
 <h2>ESTJ</h2>
 <ul>
 <li><strong>조언</strong> 한 주의 판을 짜기에 가장 좋은 날이고, 당신이 제일 잘하는 일이죠. 다만 오늘은 일정표에 15%의 빈칸을 남겨두세요. 그 여백이 목요일의 당신을 구합니다.</li>
 <li><strong>주의</strong> 진도가 안 나가는 사람을 보면 답답함이 그대로 목소리에 실립니다. 월요일엔 그게 두 배로 들립니다.</li>
 <li><strong>행운 포인트</strong> 오전 중에 끝내버리는 가장 귀찮은 일 하나</li>
 </ul>
+</section>
+<section class="mb" data-type="ESFJ">
 <h2>ESFJ</h2>
 <ul>
 <li><strong>조언</strong> 월요일엔 팀 분위기의 온도를 제일 먼저 감지하는 사람이 당신입니다. 오늘은 분위기를 수습하려 애쓰기보다, 그냥 각자 알아서 풀리게 두는 것도 방법이에요.</li>
 <li><strong>주의</strong> 모두에게 좋은 답을 찾다가 정작 본인 몫의 일이 밀립니다. 오늘 한 번은 거절해도 관계는 안 무너집니다.</li>
 <li><strong>행운 포인트</strong> 먼저 건네는 아침 인사</li>
 </ul>
+</section>
+<section class="mb" data-type="ENFJ">
 <h2>ENFJ</h2>
 <ul>
 <li><strong>조언</strong> 주변 사람들의 한 주를 챙기다 보면 정작 본인 한 주 계획은 비어 있곤 하죠. 오늘은 남의 목표를 듣기 전에 내 목표부터 한 줄 적어두세요. 그게 있어야 당신의 조언도 흔들리지 않습니다.</li>
 <li><strong>주의</strong> 조언한 대로 상대가 움직이지 않을 때 오는 실망감. 그건 당신이 부족해서가 아닙니다.</li>
 <li><strong>행운 포인트</strong> 오늘 하루 동안 지키는 혼자만의 30분</li>
 </ul>
+</section>
+<section class="mb" data-type="ENTJ">
 <h2>ENTJ</h2>
 <ul>
 <li><strong>조언</strong> 월요일 오전에 이번 주 목표를 확정해두면 나머지는 알아서 굴러가는 유형입니다. 대신 오늘은 목표 옆에 &#39;누가 어디까지&#39;를 같이 적으세요. 혼자 다 끌고 가려다 수요일에 병목이 됩니다.</li>
 <li><strong>주의</strong> 속도가 안 나는 사람을 빼고 가려는 판단. 오늘 내리기엔 정보가 부족합니다.</li>
 <li><strong>행운 포인트</strong> 위임하고 나서 다시 안 들여다보는 결단</li>
 </ul>
+</section>
 </article>
+<div class="pn"><span></span><a href="./">목록</a><span><a href="./2026-09-01.html">2026-09-01 →</a></span></div>
 </div></main>
-<footer class="site">매일 06:30 자동 생성 · Powered by Claude</footer>
+<footer class="site" style="border-top:1px solid var(--line);color:var(--sub);font-size:13px;padding:22px 0;text-align:center">매일 새벽 자동 생성 · Powered by Claude · <a href="../feed.xml" style="color:var(--accent)">RSS</a></footer>
+<script>
+var tabs=[].slice.call(document.querySelectorAll('.mb-tabs button')),cards=[].slice.call(document.querySelectorAll('.mb'));
+function show(t){cards.forEach(function(c){c.hidden=(t!=='all'&&c.dataset.type!==t)});tabs.forEach(function(b){b.classList.toggle('on',b.dataset.t===t)});}
+tabs.forEach(function(b){b.addEventListener('click',function(){show(b.dataset.t);try{localStorage.setItem('mbti:me',b.dataset.t);}catch(e){}})});
+try{var me=localStorage.getItem('mbti:me');if(me)show(me);}catch(e){}</script>
 </body>
 </html>
