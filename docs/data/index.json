@@ -2,68 +2,69 @@
   "site": "AI 데일리",
   "dates": [
     "2026-08-31",
-    "2026-09-01"
+    "2026-09-01",
+    "2026-09-02"
   ],
   "topics": [
     {
       "slug": "weather",
       "title": "날씨 생활지수",
       "emoji": "🌤️",
-      "count": 2
+      "count": 3
     },
     {
       "slug": "welfare",
       "title": "정부 지원금·정책 브리핑",
       "emoji": "🏛️",
-      "count": 2
+      "count": 3
     },
     {
       "slug": "dream",
       "title": "꿈해몽 사전",
       "emoji": "🌙",
-      "count": 2
+      "count": 3
     },
     {
       "slug": "mbti",
       "title": "MBTI별 오늘의 조언",
       "emoji": "🎭",
-      "count": 2
+      "count": 3
     },
     {
       "slug": "book",
       "title": "하루 한 권 책 요약",
       "emoji": "📚",
-      "count": 2
+      "count": 3
     },
     {
       "slug": "quiz",
       "title": "데일리 상식 퀴즈",
       "emoji": "🧠",
-      "count": 2
+      "count": 3
     },
     {
       "slug": "history",
       "title": "역사 속 오늘",
       "emoji": "📜",
-      "count": 2
+      "count": 3
     },
     {
       "slug": "korean",
       "title": "오늘의 맞춤법",
       "emoji": "✏️",
-      "count": 2
+      "count": 3
     },
     {
       "slug": "dinner",
       "title": "오늘 뭐 먹지",
       "emoji": "🍽️",
-      "count": 2
+      "count": 3
     },
     {
       "slug": "balance",
       "title": "오늘의 밸런스 게임",
       "emoji": "⚖️",
-      "count": 2
+      "count": 3
     }
   ]
 }
