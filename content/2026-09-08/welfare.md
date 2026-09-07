@@ -1,0 +1,36 @@
+# 🏛️ 오늘의 지원금·정책 브리핑 — 2026-09-08
+
+> 부산·울산·인천·대전 추석 민생지원금 온라인 신청 시작, 섬 여행객은 최대 10만 원 지원
+
+## 부산 추석 민생지원금
+- **누가?** 부산시 거주 시민
+- **무엇을?** 추석 맞이 민생지원금을 온라인으로 신청해 받을 수 있음
+- **어떻게?** 지급일 확인 후 온라인 신청 페이지에서 대상 조회 및 신청
+- 원문: https://news.google.com/rss/articles/CBMisAFBVV95cUxOMmFHZTJOa2dsM25vczhaOWp5cXhfR3pqeHlkRTRYVU5xLXJCMW90YS1hMlJQMDJyVThFY3FJTmk0dmtwc2paZTdfME8zWnJoMUdycnpXQjhvaUZNdEh1UWI5dWNocS1YNEhyT2dPRGNFMk1XcFR4Zk1ldTR0WXhXd3hGNXRyVTF5eXBoTWU5Xy1hUlAzRUdHTDlQdWZvbkk1Z0l2UWFSZzhJWlNPRXFTaQ?oc=5
+
+## 울산 추석 민생지원금
+- **누가?** 울산시 거주 시민
+- **무엇을?** 추석 민생지원금 지급 대상이면 신청 기간 내 지원금 수령 가능
+- **어떻게?** 지원 대상 확인 후 신청 기간 내 온라인 신청
+- 원문: https://news.google.com/rss/articles/CBMisAFBVV95cUxPeDA4SDlfeTVyajExYklLdlhhY2l2OWp2RUVBdGd2RjZrTDdwdGpab1R4WXJUUFpQVFRHaEJ5eTkyUmhId2wzU3pQWnlsbmVUOU8tQ2Ixa1R6QW5CYUlLY1RjVC16T25haGFJeWtmMmRrb2loR1RQb20zczJUeDY0bWVkUTZhOTdxbXhhcUdNeW5RcjRVcXZRWTFLajlKT1BrZzZFb08yN3VtQmZCd0pEbw?oc=5
+
+## 인천 추석 민생지원금
+- **누가?** 인천시 거주 시민
+- **무엇을?** 추석 민생지원금을 온라인으로 신청해 받을 수 있음
+- **어떻게?** 대상자 여부 확인 후 온라인 신청 절차대로 신청
+- 원문: https://news.google.com/rss/articles/CBMisAFBVV95cUxOSWtRdWZjemxnLXcyTGNxbGFGMGFyTUQtRmNOSGFYQmQxZW1nZ21sZlFZV2hUT051dVRhbkRLMFJVNkFYNnY0WjMwUVdaNldFNFdPWl81eG5fMVBoZjlFNGt5WmU0bTVmSWtSRHBDcV9YQmlmRW1NY3lTZmRmOE9WekJhQ0doWUlYNWNpWlVfd1dkbkUtdjBQLXh0UDhwR0taY2NzaUZzZ1luWDdIOTg5eQ?oc=5
+
+## 대전 추석 민생지원금
+- **누가?** 대전시 거주 시민
+- **무엇을?** 추석 민생지원금 대상 확인 후 신청하면 지원금 수령 가능
+- **어떻게?** 대상자 확인 후 온라인 신청
+- 원문: https://news.google.com/rss/articles/CBMisAFBVV95cUxNT3R2SkxHSm1nT0Y1RmJTS3BaejBiWWZQUTE4aEpwemZFSDBMNHhoQlBnRE5oQUU5RE11OVYySmJEME9EZ0hId3FFQlluSEN3NGlVZktwSXUwRFhDWHFpNUprV0JNcm1PRzhXZ2prbWVVem5Fd0hPNWJES1E5NG5tMWkxcG5URWVTVHQxNV9VU3NfY3RsNnFQRmRHMkUxVnpqX1I3T3JNOVRPVkNhb0lHcw?oc=5
+
+## 섬 여행 경비 최대 10만 원 지원
+- **누가?** 1박 이상 섬 여행을 계획 중인 국민
+- **무엇을?** 여행 경비 최대 10만 원 지원
+- **어떻게?** 9월 8일부터 누리집에서 사전 신청
+- 원문: https://news.google.com/rss/articles/CBMiigFBVV95cUxQT3AyNFpneEhBZHdJSUpQdUZvRjlCTVpXbUJya1J1SkNUVk5URzhQaDBwbmpqMHRVN0Y3TU9iOE56RldhX0FleGl1YnY0REYxOTQxU0pZWUs4WGFYVjdsWktHZVhzend3Um5LNmJuTm4zS2kzOW9Ob01zejRRNHQ5WUE5VllCODdleWc?oc=5
+
+---
+해남군은 신혼부부·다자녀가정에 대출이자를 지원하고, 화순군은 장애인 자동차 검사비 지원을 확대했어요.
