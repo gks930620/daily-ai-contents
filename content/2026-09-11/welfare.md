@@ -1,0 +1,36 @@
+# 🏛️ 오늘의 지원금·정책 브리핑 — 2026-09-11
+
+> 추석 민생지원금부터 무료 독감 예방접종까지, 지금 챙길 수 있는 생활 혜택이 많아요
+
+## 노후 경유차 조기폐차 지원, 곧 마감돼요
+- **누가?** 5등급 노후 경유차(오래된 디젤차) 소유자
+- **무엇을?** 차를 조기에 폐차하면 지원금을 받을 수 있는데, 이 사업이 곧 종료될 예정이라 서두를 필요가 있어요
+- **어떻게?** 거주 지자체 환경 관련 부서(환경과 등)에 조기폐차 지원사업 마감 일정을 확인하고 빨리 신청하세요
+- 원문: https://news.google.com/rss/articles/CBMiaEFVX3lxTE04OEVEa3g1UkVEcTlDV0V0RXRYelZ3aW9nd2RRN2JsSnJqdXowUE5TTzE0Q1dqWldwUWRlaTVyV2hGQmhZRmxwZkJSVUFnT25Rdzl4dE9FcHlnQmZ6ZnpTb001aUZHWEtK?oc=5
+
+## 2026 추석 민생지원금, 지역별로 신청하세요
+- **누가?** 해당 지자체에 거주하는 주민
+- **무엇을?** 추석을 맞아 지역별로 지급되는 민생지원금(현금 또는 지역화폐 등)을 받을 수 있어요
+- **어떻게?** 본인 거주지의 시·군·구청 홈페이지나 공고문에서 신청 지역과 일정을 확인 후 신청하세요
+- 원문: https://news.google.com/rss/articles/CBMiT0FVX3lxTE9fS05qdlY1dm9oX3h5bWRDYlR2OTE1MnlVYjFRYmtLcE43bUhkZ3FIMnk2V1Z4YmQ5dER1VnU3a0t2R3dQYUNac1BnYXJVRzg?oc=5
+
+## 화성시, 무료 독감 예방접종 대상 확대
+- **누가?** 화성특례시에 거주하는 주민
+- **무엇을?** 인플루엔자(독감) 예방접종을 무료로 받을 수 있는 대상이 넓어졌어요
+- **어떻게?** 화성시 보건소나 지정 병·의원에서 대상 여부를 확인하고 신분증을 지참해 접종받으세요
+- 원문: https://news.google.com/rss/articles/CBMicEFVX3lxTE9UY2R3VFZaSVh5NFdCSXN6c3Y4cnVlWjZJNWd3QjM1NEx6c0xJQU5FMENxWnFONzRpd3FmSjRpR2FmYWFOWGNqS0VsSl9qMTl5d1ZxSERmaDc1ck1kZzJrVm04eHBrNm5aTFZfVHR5Q0Y?oc=5
+
+## 용인시 4차 민생지원금 신청 방법
+- **누가?** 용인시에 거주하는 주민
+- **무엇을?** 용인시가 지급하는 4차 민생지원금을 받을 수 있어요
+- **어떻게?** 용인시청 홈페이지나 공지된 신청 채널에서 대상 여부와 신청 방법을 확인하세요
+- 원문: https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSEdXSmdXS2ZZUkZkeWFqWTdoVkRqSld1ZEpzQlNIOFRKU3VCQzF2Q2VIUDZ1UlZ0dEd6VnZpaW5GZURCVENzaV9ybE9DcW1rRDZKZW90djFYUG9PekdDdmtxMjl1ZGhITmlvTDVRX2tsZVZSc0RwZTQxeDZEall5NlhvVWdwX2Zn?oc=5
+
+## 모르면 손해, 사회서비스 바우처 신청법
+- **누가?** 돌봄·가사·건강 등의 지원이 필요한 국민
+- **무엇을?** 정부가 지원하는 사회서비스 바우처를 이용하면 매달 관련 서비스 비용을 크게 아낄 수 있어요
+- **어떻게?** 복지로 홈페이지나 거주지 주민센터에서 바우처 종류와 신청 자격을 확인하세요
+- 원문: https://news.google.com/rss/articles/CBMiSkFVX3lxTFBhRWlCSmxUaHJjYkYteWVlbUFsR1N2WXI0bl8xOW1LYl8zXzVXZERPR0lWT2c0b0VkNVktRWN0c0ZCS1A1V28xeERR?oc=5
+
+---
+30만 원을 준다던 지원금이 영수증 제출 요건 때문에 23만 명이나 못 받았다는 소식이 있으니, 지원금을 신청할 땐 사용 증빙 서류(영수증 등) 제출 기한을 꼭 챙기세요.
