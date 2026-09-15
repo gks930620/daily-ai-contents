@@ -1,0 +1,36 @@
+# 🏛️ 오늘의 지원금·정책 브리핑 — 2026-09-16
+
+> 추석 앞두고 민생지원금·고용지원 확대 소식이 많아요
+
+## 추석 민생지원금, 지역별로 신청 방법이 달라요
+- **누가?** 각 지자체 거주 주민 (지역마다 지급 방식 상이)
+- **무엇을?** 지역상품권·현금성 지원 등 명절 생활비 지원
+- **어떻게?** 거주 지자체 홈페이지나 주민센터에서 신청 방법·기간 확인
+- 원문: https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NRU5ibUMteEFCb0dJNS0yNWszM0xVVTY1YjBiUDJpcUpJV1RPcmkxUXVxRVpCd2FNX1lBSTFFY0ZGVGtPXzd4dHUyVnBnOGs?oc=5
+
+## 경남 40대도 이제 중장년 고용지원 받을 수 있어요
+- **누가?** 경남 거주 40~50대 구직자
+- **무엇을?** 기존 50대 이상 위주였던 중장년 고용지원 대상이 40대까지 확대
+- **어떻게?** 경남도 일자리 지원 부서나 관련 사업 공고 확인 후 신청
+- 원문: https://news.google.com/rss/articles/CBMidEFVX3lxTE45b3dBSHUtZjVyVFNfRThXa3VFTktjeXFEeFotTkE1WklSQWtUTmkxM0V0UmJGaVNFWnNyTE5VWGYzTFBIUTRSaGQ4UzZKN0M1eGJoUzZtTzdPWTBSOHhBaXA2aXBFRXd1SXVPSGpXVlU5MEVF?oc=5
+
+## 시흥시, 산후조리비 50만원 지원 그대로 유지
+- **누가?** 경기 시흥시에서 출산한 산모
+- **무엇을?** 다른 지역은 지원이 끊겨도 시흥시는 자체 예산으로 50만원 지원 유지
+- **어떻게?** 시흥시 보건소·시청 홈페이지에서 산후조리비 지원 신청
+- 원문: https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZSGlfbHozYWxkSVhFaDhBWXZRbUtiZkJBZUpHalZnNlQwak1GT0JyT2FKVUVIdmJ0RjIwRUJDNzBGWGtYSTVxd2kzZndEUVlmekNiUEVIMFlWX1k?oc=5
+
+## 경남 '중장년 내일이음 50+사업' 지원 대상 확대
+- **누가?** 경남 거주 50대 이상 중장년층
+- **무엇을?** 재취업·일자리 연계 등 50+ 대상 지원 사업의 문턱이 넓어짐
+- **어떻게?** 경남도청 또는 관할 시군 일자리센터에서 사업 신청 여부 확인
+- 원문: https://news.google.com/rss/articles/CBMiakFVX3lxTE1NcjgwRUxEOTA2cmNqYlc5UWo0WjBUTVlhU3J0bUhFTU1qVnhVTUM5NlRnYm9Ic2dxODdpQll4QmE0R2MxU1ZQWU5tU0xYV0NGMTZKTVBHXzJfd2hpcV9nU25Nd2dBTFA5UXfSAW5BVV95cUxNejRKaXlqME8tRGFudkVJcloxR1dtclhhQi10WFNZaHMzTW83YVJHRFdwTExHWmhrU05zazJtNUd4bFFJVVR2cmFyWW9sXzBqb1c3Z2t0Q09BUksza0MwMzNyd21MRWpadG5RS3dzUQ?oc=5
+
+## 성남시, 음식점 주방 후드 청소비 지원 확대
+- **누가?** 성남시 음식점 운영 자영업자
+- **무엇을?** 화재 예방을 위한 주방 후드 청소 비용을 지자체가 지원
+- **어떻게?** 성남시청 또는 관할 부서에 지원 대상·신청 방법 문의
+- 원문: https://news.google.com/rss/articles/CBMicEFVX3lxTE1vQVVabmc5VlZjM25EYzdRY0pkUmFKWGxoOFU3ZW9DRFlXYkNTUXlfVmppTDdscnlXNWN3bER1aFRTNFJlQ1pCSGFZWFcwVFNla2FZYjNTTk5IT0pITDJpYUpWWVBvVy1DYU91NkN4SXU?oc=5
+
+---
+경기 시흥은 모자보건사업 개편에 따라 일부 지원이 정비될 수 있으니, 임신·출산 관련 지원을 받고 있다면 변경 내용을 확인해두는 게 좋아요.
