@@ -1,0 +1,24 @@
+# 🏛️ 오늘의 지원금·정책 브리핑 — 2026-09-18
+
+> 인천 섬 근무자 여객선 요금 인하, 부안군 청년임대주택 입주자 모집, 캠코 생활비 지원 확대 소식이 있어요
+
+## 인천 섬에서 근무하면 배삯이 1500원으로 뚝
+- **누가?** 인천 섬 지역에서 근무하는 경찰관·직업군인
+- **무엇을?** 출퇴근용 여객선(배) 요금을 1500원 수준으로 낮춰줌
+- **어떻게?** 소속 기관 또는 인천시를 통해 적용 대상·신청 방법 확인
+- 원문: https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tVW5GZlltVWQyZlVzY0d0N29VYlA1V056X0FScHZvd1NSaFZjUGdlMmhqZ3I0VlpxMHhQQkx4YjZuX1U3bG4wT3dkT1FyZzZwbHA0VTBUbkd4STllNzdn0gFfQVVfeXFMTy1VbkZmWW1VZDJmVXNjR3Q3b1ViUDVXTnpfQVJwdm93U1JoVmNQZ2UyaGpncjRWWnEweFBCTHhiNm5fVTdsbjBPd2RPUXJnNnBscDRVMFRuR3hJOWU3N2c?oc=5
+
+## 부안군 청년임대주택 29세대 입주자 모집
+- **누가?** 부안군 거주를 원하는 청년
+- **무엇을?** 시세보다 저렴한 임대료로 임대주택 29세대 입주 가능
+- **어떻게?** 부안군청 공고문 확인 후 접수 기간 내 신청
+- 원문: https://news.google.com/rss/articles/CBMifkFVX3lxTFBRQjN2elNvR2JDUUlScU5ZalBuM2duVWo3NHY2YXFBdzBfcklWdFpMc1pRNExyNzN0ZWhIZVFZRjNxYzB6TWVqRm40b25GcWhZWmlCR0laVVMtVFNSRFViOUhFMFhMS1Q2YmhIaXc1RnpoQTJoeFYyYnRqUEVyQQ?oc=5
+
+## 캠코, 빚 정리 후 생활비 지원 대상 넓혀줌
+- **누가?** 캠코(한국자산관리공사)에서 채무조정을 받은 사람
+- **무엇을?** 생활 안정을 위한 생활비 지원을 받을 수 있는 대상이 확대됨
+- **어떻게?** 캠코에 본인이 지원 대상에 새로 포함되는지 문의·확인
+- 원문: https://news.google.com/rss/articles/CBMic0FVX3lxTE1VWS1wWExDbFNDMkEtWXB5VDd6YWZwNE5VcHNpc24xUXhOd08xeU5qVHdPUmQ4WXZhTkFiOHFKZHJURi1ZaGhOdTZLdHZZcVlwdWtPdjVxdV92ZkZEeHJMbTNnZDVKMkRWNUtWRFpnNUV5eHPSAXdBVV95cUxOS2E5bGdaRGJtaHdwQVZnOEZPMjNrYXNEZ1RNOHFGZTRrRm8tTmNOanVTY0lhRkRMV20tYmt2N09nS3ZLNEh3WW93ajZnMHczRHd5WUxSNjF0Ti1JVTBocjNobmtlLXJpbEFHTXM5UzF6YU11T01ZRQ?oc=5
+
+---
+정부·여당이 공공임대주택 품질을 높이는 '주거복지 플랜'을 곧 발표할 예정이라, 임대주택 거주자나 입주 예정자는 눈여겨볼 만해요.
