@@ -19,74 +19,75 @@
     "2026-09-16",
     "2026-09-17",
     "2026-09-18",
-    "2026-09-19"
+    "2026-09-19",
+    "2026-09-20"
   ],
   "topics": [
     {
       "slug": "weekly",
       "title": "주간 다이제스트",
       "emoji": "🗞️",
-      "count": 2
+      "count": 3
     },
     {
       "slug": "weather",
       "title": "날씨 생활지수",
       "emoji": "🌤️",
-      "count": 18
+      "count": 19
     },
     {
       "slug": "welfare",
       "title": "정부 지원금·정책 브리핑",
       "emoji": "🏛️",
-      "count": 19
+      "count": 20
     },
     {
       "slug": "dream",
       "title": "꿈해몽 사전",
       "emoji": "🌙",
-      "count": 19
+      "count": 20
     },
     {
       "slug": "mbti",
       "title": "MBTI별 오늘의 조언",
       "emoji": "🎭",
-      "count": 19
+      "count": 20
     },
     {
       "slug": "book",
       "title": "하루 한 권 책 요약",
       "emoji": "📚",
-      "count": 19
+      "count": 20
     },
     {
       "slug": "quiz",
       "title": "데일리 상식 퀴즈",
       "emoji": "🧠",
-      "count": 19
+      "count": 20
     },
     {
       "slug": "history",
       "title": "역사 속 오늘",
       "emoji": "📜",
-      "count": 19
+      "count": 20
     },
     {
       "slug": "korean",
       "title": "오늘의 맞춤법",
       "emoji": "✏️",
-      "count": 19
+      "count": 20
     },
     {
       "slug": "dinner",
       "title": "오늘 뭐 먹지",
       "emoji": "🍽️",
-      "count": 19
+      "count": 20
     },
     {
       "slug": "balance",
       "title": "오늘의 밸런스 게임",
       "emoji": "⚖️",
-      "count": 19
+      "count": 20
     }
   ]
 }
