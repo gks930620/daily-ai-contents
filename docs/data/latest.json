@@ -1,55 +1,55 @@
 {
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "topics": [
     {
       "slug": "weather",
       "title": "날씨 생활지수",
-      "url": "/data/2026-09-29/weather.json"
+      "url": "/data/2026-09-30/weather.json"
     },
     {
       "slug": "welfare",
       "title": "정부 지원금·정책 브리핑",
-      "url": "/data/2026-09-29/welfare.json"
+      "url": "/data/2026-09-30/welfare.json"
     },
     {
       "slug": "dream",
       "title": "꿈해몽 사전",
-      "url": "/data/2026-09-29/dream.json"
+      "url": "/data/2026-09-30/dream.json"
     },
     {
       "slug": "mbti",
       "title": "MBTI별 오늘의 조언",
-      "url": "/data/2026-09-29/mbti.json"
+      "url": "/data/2026-09-30/mbti.json"
     },
     {
       "slug": "book",
       "title": "하루 한 권 책 요약",
-      "url": "/data/2026-09-29/book.json"
+      "url": "/data/2026-09-30/book.json"
     },
     {
       "slug": "quiz",
       "title": "데일리 상식 퀴즈",
-      "url": "/data/2026-09-29/quiz.json"
+      "url": "/data/2026-09-30/quiz.json"
     },
     {
       "slug": "history",
       "title": "역사 속 오늘",
-      "url": "/data/2026-09-29/history.json"
+      "url": "/data/2026-09-30/history.json"
     },
     {
       "slug": "korean",
       "title": "오늘의 맞춤법",
-      "url": "/data/2026-09-29/korean.json"
+      "url": "/data/2026-09-30/korean.json"
     },
     {
       "slug": "dinner",
       "title": "오늘 뭐 먹지",
-      "url": "/data/2026-09-29/dinner.json"
+      "url": "/data/2026-09-30/dinner.json"
     },
     {
       "slug": "balance",
       "title": "오늘의 밸런스 게임",
-      "url": "/data/2026-09-29/balance.json"
+      "url": "/data/2026-09-30/balance.json"
     }
   ]
 }
