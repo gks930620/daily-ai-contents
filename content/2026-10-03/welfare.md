@@ -1,0 +1,36 @@
+# 🏛️ 오늘의 지원금·정책 브리핑 — 2026-10-03
+
+> 임신·출산 진료비 100만원부터 청년미래적금 2차 신청까지, 오늘 챙길 혜택 모아보기
+
+## 아이돌봄서비스 정부지원, 소득유형에 따라 다르게 받는다
+- **누가?** 만 12세 이하 아동을 둔 가정
+- **무엇을?** 소득유형 판정에 따라 돌봄서비스 이용료 정부지원금을 받을 수 있음
+- **어떻게?** 아이돌봄서비스 홈페이지·복지로에서 소득유형 판정 후 신청
+- 원문: https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMTHJmaFpadVdWQ2tzWTg2bV8yeXJaelFLTTRaUHh1SFkwZUJsMC1TeVRnY1dWYk1PZ1B2Mk1IRXlhQ2s3RHFCV2xkUXB5c2dPTmhFejZTS1JWMGQ4bk5WVDZxcmJUZw?oc=5
+
+## 몇 시간만 맡기고 싶을 때, 시간제보육 이용하기
+- **누가?** 어린이집 정규 등록 전 짧은 시간 돌봄이 필요한 영유아 가정
+- **무엇을?** 시간 단위로 예약해 필요한 만큼만 보육서비스 이용 가능
+- **어떻게?** 시간제보육 지정기관에 대상·예약 가능 시간 확인 후 신청
+- 원문: https://news.google.com/rss/articles/CBMiZkFVX3lxTE9raFdHcHRPdFhaUTUzNDE5WkdfWVVzU3Z0VG1VSmhBVGtTSDFZbkRmbnFBbTBOQ0tPZllRcVBWeHA3eWxCd1BYaWFqS2dKVElCU3Zhek5pdVBRem4yWDE1N2R4Y3dYZw?oc=5
+
+## 임신·출산 진료비 100만원, 국민행복카드로 받기
+- **누가?** 임신·출산(예정) 여성
+- **무엇을?** 국민행복카드를 통해 진료비 최대 100만원 지원
+- **어떻게?** 국민행복카드 발급 후 신청 절차에 따라 등록
+- 원문: https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzcHBHeTZkbXZ0bnNxNHljQTJ0WmxJSURFcG9pcWhxRENPeExBelZmUG1HbjZRQlBwbXZtQWZlQ0RmdFZWR3F0U2pKNmp0SE95cDZ6dTlXSWpTWmVsdUMxZHRONDZoU1ZP?oc=5
+
+## 청년미래적금 2차 신청, 10월 7일부터 시작
+- **누가?** 청년 자산형성 상품 가입을 원하는 청년
+- **무엇을?** 청년미래적금 가입 또는 청년도약계좌에서 갈아타기 가능
+- **어떻게?** 10월 7일부터 취급 은행·앱에서 2차 신청, 갈아타기 조건 확인 후 신청
+- 원문: https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fT09zSWxMdVFYeDdnTnlTNS1ZZEV3QTQxVzZTemx6UmhaZzlEdEFlcDFQZk9FT2N5TkhILUZYRXJmWnNQLWx1WEplLWE2YVVfOE9SNzZ2YVNBSHB2elZPZVRZdkxqXy0y?oc=5
+
+## 경북 대학생, 학자금대출 이자 지원받기
+- **누가?** 경상북도 소재 또는 거주 대학생 중 학자금대출 이용자
+- **무엇을?** 학자금대출 이자를 지원받아 상환 부담 완화
+- **어떻게?** 경상북도 또는 해당 사업 공고 확인 후 신청
+- 원문: https://news.google.com/rss/articles/CBMickFVX3lxTFAxUm1OdldiVThaM1NTWmdEVGkyMVhlRHJUWnl3RlNtQ3FaM2d6c2RCalJza1ktM2VNWjZ1VTdJMTdvWmdsMzExelVzYUFYaUtrM2FCTEJxOW1rYmlxMEFaeFFRTmpEdTNMVXNRSmFwd3kxUdIBckFVX3lxTFAxUm1OdldiVThaM1NTWmdEVGkyMVhlRHJUWnl3RlNtQ3FaM2d6c2RCalJza1ktM2VNWjZ1VTdJMTdvWmdsMzExelVzYUFYaUtrM2FCTEJxOW1rYmlxMEFaeFFRTmpEdTNMVXNRSmFwd3kxUQ?oc=5
+
+---
+당진시가 치매·알츠하이머 위험도 혈액검사 지원 대상을 확대했으니 해당 지역 주민은 보건소에 확인해볼 만함
