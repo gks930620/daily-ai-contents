@@ -33,50 +33,51 @@
     "2026-09-30",
     "2026-10-01",
     "2026-10-02",
-    "2026-10-03"
+    "2026-10-03",
+    "2026-10-04"
   ],
   "topics": [
     {
       "slug": "weekly",
       "title": "주간 다이제스트",
       "emoji": "🗞️",
-      "count": 4
+      "count": 5
     },
     {
       "slug": "weather",
       "title": "날씨 생활지수",
       "emoji": "🌤️",
-      "count": 31
+      "count": 32
     },
     {
       "slug": "welfare",
       "title": "정부 지원금·정책 브리핑",
       "emoji": "🏛️",
-      "count": 31
+      "count": 32
     },
     {
       "slug": "dream",
       "title": "꿈해몽 사전",
       "emoji": "🌙",
-      "count": 33
+      "count": 34
     },
     {
       "slug": "mbti",
       "title": "MBTI별 오늘의 조언",
       "emoji": "🎭",
-      "count": 33
+      "count": 34
     },
     {
       "slug": "book",
       "title": "하루 한 권 책 요약",
       "emoji": "📚",
-      "count": 33
+      "count": 34
     },
     {
       "slug": "quiz",
       "title": "데일리 상식 퀴즈",
       "emoji": "🧠",
-      "count": 33
+      "count": 34
     },
     {
       "slug": "history",
@@ -88,19 +89,19 @@
       "slug": "korean",
       "title": "오늘의 맞춤법",
       "emoji": "✏️",
-      "count": 33
+      "count": 34
     },
     {
       "slug": "dinner",
       "title": "오늘 뭐 먹지",
       "emoji": "🍽️",
-      "count": 33
+      "count": 34
     },
     {
       "slug": "balance",
       "title": "오늘의 밸런스 게임",
       "emoji": "⚖️",
-      "count": 33
+      "count": 34
     }
   ]
 }
