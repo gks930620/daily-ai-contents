@@ -1,0 +1,24 @@
+# 🏛️ 오늘의 지원금·정책 브리핑 — 2026-10-09
+
+> 광진구 60~64세 저소득 주민 임플란트·틀니 지원이 대폭 확대돼요
+
+## 60~64세 저소득 주민, 임플란트·틀니 지원 확대
+- **누가?** 광진구에 거주하는 60~64세 저소득층 주민
+- **무엇을?** 임플란트·틀니 치료비 지원 대상과 금액이 기존보다 대폭 확대됨
+- **어떻게?** 광진구청 또는 관할 보건소에 지원 대상 여부와 신청 방법 문의
+- 원문: https://news.google.com/rss/articles/CBMibEFVX3lxTFBjUWp3bUctMmZ0TzkzTVJiY1JPRTI2R210YmJ0ak4tNE5zcl9yTW5vRE9KOVZUYXlqY2ZBUHhmZ2tkZ21oemV1UE9PUnYzeEJzckpGNFR1b0hjTGV0LUJVQ3RkajEyME8xTHBNMA?oc=5
+
+## 사회복지 종사자, 감염병 예방접종비 최대 3만 원 지원
+- **누가?** 동대문구 소재 사회복지시설 종사자
+- **무엇을?** 1인당 최대 3만 원까지 감염병 예방접종 비용 지원(지원 대상·한도 확대)
+- **어떻게?** 소속 복지시설 또는 동대문구청 담당 부서에 지원 신청 방법 확인
+- 원문: https://news.google.com/rss/articles/CBMiREFVX3lxTFBJWmRGV1FSNm9tTGpKQjZtdF9QUTJHRGswdlo3Z1NJblhMbllCbEtPcHFEN3lNTmFzVENWakJsUWJ5Mnpa?oc=5
+
+## 청주시, 슬레이트 철거 지원 대상에 노인·어린이시설 추가
+- **누가?** 청주시 내 노인복지시설·어린이시설 운영자
+- **무엇을?** 석면 위험이 있는 슬레이트 지붕 철거 비용을 지원받을 수 있는 대상이 확대됨
+- **어떻게?** 청주시청 환경 관련 부서에 지원 대상 포함 여부와 신청 절차 문의
+- 원문: https://news.google.com/rss/articles/CBMia0FVX3lxTE54aXBBOVcwR29YQ1o3ckNraTdPZ09Ib3V3M3UwRjVEWGFQempva2pGSExka1Z2UDFNX0JLRHcwTVBGQlZsYndOalYwbXZJNUVnYXM5dkNmd2FIOVN2Z0Q1TURuZi1feHFBLVFz?oc=5
+
+---
+경북도의회에서 저소득층 건강보험료 지원을 3배로 늘리자는 논의가 나왔지만 아직 확정된 정책은 아니니 추진 상황을 지켜봐야 해요.
