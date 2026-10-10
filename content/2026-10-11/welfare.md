@@ -1,0 +1,30 @@
+# 🏛️ 오늘의 지원금·정책 브리핑 — 2026-10-11
+
+> 청년이라면 오늘 챙기세요: 전세보증 확대부터 저금리 생활비 대출까지
+
+## 청년 전세보증, 만 39세까지 받을 수 있어요
+- **누가?** 만 39세 이하 청년
+- **무엇을?** 청년 특례전세보증 지원 대상 나이가 늘어나 더 많은 청년이 낮은 금리로 전세자금 보증을 받을 수 있어요
+- **어떻게?** 주택도시보증공사(HUG) 또는 취급 은행에서 청년 특례전세보증 상담·신청
+- 원문: https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rOWpaNVFDNEhmbmlVRk50eVVpaUl6UUpYTlRYRTBzYWU2VXhYMmE0dnpEUE1mOUIxTDlta0tkLTNvQjgxNzc3NzBRaXhQYnNNRmRncFJxdXIwWF9RVWV1Z2Z5M0h5bThZ?oc=5
+
+## 햇살론유스로 생활비·취준비·의료비 저금리 대출
+- **누가?** 생활비·취업준비·의료비가 필요한 청년
+- **무엇을?** 정부가 지원하는 저금리 대출로 급전이 필요할 때 이자 부담을 줄일 수 있어요
+- **어떻게?** 서민금융진흥원 또는 취급 은행에서 햇살론유스 신청
+- 원문: https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hVjJsUzh0Wk5relRyOXloQTRKR1RtR21VMVFRM0pCRGp1Wm5OcDVvTEhsWDhqb0tqbHFTSWdYaTBPS0dMY0UxbUZpNjFwdnlWSEdWOGJR?oc=5
+
+## 하나은행 청년미래적금, 2차 모집 시작
+- **누가?** 적금 가입 대상 청년
+- **무엇을?** 급여 멤버십 혜택이 확대된 적금에 가입해 저축하며 우대 혜택을 추가로 받을 수 있어요
+- **어떻게?** 하나은행 앱이나 영업점에서 청년미래적금 2차 모집 신청
+- 원문: https://news.google.com/rss/articles/CBMickFVX3lxTE5pQ1hTU0tsM1ZYeHFjOVJWVlFzNVN5NmZ3Z1Y2QU1hSGdiZ3hUalM1ckxoRS1GTE52X0ttNjRaOE83ZzQtTFpoMDR5eHZZS21WVUxVU2lqamdSVFpRaTRJb0FZT3pTYUkxZ3d2dDhrQWlDUQ?oc=5
+
+## 대출 상환 힘들면 채무조정·탕감 넓어져요
+- **누가?** 기업은행·하나은행 등에서 대출받아 상환이 어려운 사람
+- **무엇을?** 채무조정과 채무 소각(탕감) 대상이 확대돼 빚 부담을 덜 수 있어요
+- **어떻게?** 거래 은행 채무조정 창구 또는 신용회복위원회에 상담 신청
+- 원문: https://news.google.com/rss/articles/CBMiakFVX3lxTE1wdHVQMWJZTHU4cl9TMGxhMzF3R0dwMTYxTVJNbkFiYjU5Zkx2QXlHNDgwY1JxbnhqVU5fd2syMVhiSXQyXzFxSUxHcmE1eU1JMEZpOTJHQTFNTF9YZGhaeDktcUMzaTh2MkHSAW5BVV95cUxQLWFWZTJrSGxtckdrLVJmSWtybWxqUUtzSXZKeXVZYThYbTB3cnBTUW5KQkp0Q09mUnRIRmVvLTZ3dnZZSjdoV2p3S0lKNEs5N1d0SlpoZk1Hd0p5QmROc05hbHZVdFNPN0Q2YTBHdw?oc=5
+
+---
+저소득층 건강보험료 지원 확대는 아직 지방의회 추진 단계라 결과가 나오면 다시 확인해볼 만해요.
