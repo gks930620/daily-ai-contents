@@ -1,0 +1,36 @@
+# 🏛️ 오늘의 지원금·정책 브리핑 — 2026-10-14
+
+> 청소년부모 양육비부터 소상공인 보험료, 장애인 교통수단, 청년 임대주택, 간염 치료비까지 챙길 지원이 많아요
+
+## 청소년부모에게 양육비 월 25만원 지원
+- **누가?** 미성년이거나 어린 나이에 아이를 키우는 '청소년부모' 가구
+- **무엇을?** 매달 25만원씩 양육비를 받을 수 있음
+- **어떻게?** 거주지 시·군·구청 또는 복지로(온라인)에서 지원 신청 가능 여부 확인
+- 원문: https://news.google.com/rss/articles/CBMiakFVX3lxTE9laHB0OU1TZERYR1QxVDQ1TUJEWjVLM2NLdGgtelJhV25adkdpZ3F2Q2FHc1JxRzNVVUExVzdMTzAwRDhKdHRobktGUmhsbzg4eFNSZlNXZl9zTlMzX0tOdlFpcDBHdG1wRUE?oc=5
+
+## 보령시 소상공인 사회보험료·고용보험료 지원
+- **누가?** 보령시 소재 소상공인
+- **무엇을?** 사회보험료·고용보험료 부담을 줄여 고정비 절감
+- **어떻게?** 보령시청 또는 관할 부서에 지원 대상·신청 방법 문의
+- 원문: https://news.google.com/rss/articles/CBMia0FVX3lxTE5LSkswSzdNeGpvSGJrc1pUN05JN1YwZmhNMmFFRTV6RDF5aUppRXBzM0t1MFIwRThFanUtaUJLUWxlaldTc2JnUlVhVloyQXB2QVpnT0JFd1hSNzd3S0pWWGdkTEFBcXA2d0dJ?oc=5
+
+## 인천 장애인 특별교통수단 284대로 확대, 영종은 24시간 운행
+- **누가?** 인천시 거주 장애인(이동 지원 대상자)
+- **무엇을?** 특별교통수단 차량이 늘어나고, 영종 지역은 24시간 이용 가능
+- **어떻게?** 인천시 또는 관할 콜센터를 통해 특별교통수단 이용 신청·예약
+- 원문: https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ITzJPMkNZeU05Yzd5MzlrMG5BZXlFaDdtNTVtckJ5UHhPSWJ5ZnhId0tTVUg5REpSc3pxal9DUi1hV1IzNGEzY2tXMVpZdFgwdzNvazBRSzNBV2FYWVpxeUpSQ0xvMVk?oc=5
+
+## 해남군 청년공공임대주택 40가구 입주자 모집
+- **누가?** 해남군 거주(예정) 청년
+- **무엇을?** 164억원 투입된 공공임대주택에 저렴하게 입주 가능, 11월 준공·내년 1월 입주
+- **어떻게?** 해남군청 홈페이지에서 입주자 모집 공고 확인 후 신청
+- 원문: https://news.google.com/rss/articles/CBMid0FVX3lxTE52YU5ac1A2SnZJZkxxWm9GNF9tNnp3UFdVbHJqZzFGZ0lyMDVscURLdTg5ZVpobnVNbm5lWjdmUHdFS3JRUWVsakxlYWVuSXA1SnNadGlpOUxlb2ZuRlptM29JdWZvNDRsLUE4QmplZ1AwaDR5VXRj0gF3QVVfeXFMTnZhTlpzUDZKdklmTHFab0Y0X202endQV1VscmpnMUZnSXIwNWxxREt1ODllWmhudU1ubmVaN2ZQd0VLclFRZWxqTGVhZW5JcDVKc1p0aWk5TGVvZm5GWm0zb0l1Zm80NGwtQThCamVnUDBoNHlVdGM?oc=5
+
+## 고성군 C형간염 치료비 지원 확대
+- **누가?** 고성군 거주 C형간염 환자
+- **무엇을?** 치료비 지원 범위가 넓어져 더 많은 군민이 치료비를 지원받을 수 있음
+- **어떻게?** 고성군 보건소에 지원 대상·신청 방법 문의
+- 원문: https://news.google.com/rss/articles/CBMidEFVX3lxTE0yVXhJVW5QQTg3Vjdlam9hZk10eGlhQ2FXQnlXdGo1dF9MSlNzQlpLY2hSemZ5SGQzUEhKRWpFajJkSHN4SHVCTE4wc05jTGFZSGlkTmxfQW5SQWxob1VfOFdhNUVqclB6ZkdhSmxkLXdld3ZU0gF0QVVfeXFMTTJVeElVblBBODdWN2Vqb2FmTXR4aWFDYVdCeVd0ajV0X0xKU3NCWktjaFJ6ZnlIZDNQSEpFakVqMmRIc3hIdUJMTjBzTmNMYVlIaWRObF9BblJBbGhvVV84V2E1RWpyUHpmR2FKbGQtd2V3dlQ?oc=5
+
+---
+영주시의원이 '청년 정착 4대 해법'을 제시하는 등, 청년 정착 지원 정책 논의도 각 지역에서 활발합니다.
