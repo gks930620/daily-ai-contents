@@ -1,0 +1,36 @@
+# 🏛️ 오늘의 지원금·정책 브리핑 — 2026-10-15
+
+> 첫째아 출산 1000만원 지원부터 전국민 30만원 민생지원금까지, 오늘 챙길 혜택이 많아요
+
+## 첫째 아이 낳으면 1000만원 지원
+- **누가?** 출산 예정이거나 첫째 아이를 둔 가구, 신혼부부
+- **무엇을?** 첫째아 출산 시 1000만원 지원, 신혼부부 등 57만 가구 대상 주택 공급 확대
+- **어떻게?** 정부 인구비전 발표 후속 조치로 세부 지원 절차가 공지될 예정이니 관할 지자체·복지로 공고 확인
+- 원문: https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XS2QtNm1FLVp6ci12cGZaX0FWS2k0c2tUNko0MFhtSjI3czk0ektXX0tHLVp2RURHdUZ1YUMyeVBBSFd3UnV1MVJpN1Rva1JMeE1YZG80MDdZZw?oc=5
+
+## 1인당 30만원 민생지원금, 이달 30일 신청 마감
+- **누가?** 아직 신청하지 않은 전국 국민
+- **무엇을?** 1인당 30만원 지급
+- **어떻게?** 10월 30일 신청 마감 전 거주지 지자체 홈페이지나 주민센터에서 신청
+- 원문: https://news.google.com/rss/articles/CBMibkFVX3lxTFBpazYycGFVTk1LandQXzJoYUJWMF9QTGVvOXFxSXpFTVFweFQtemlxQzU0bkRydl9PbFpXN0VXV1o0N0UyNW95R2NVZ0pYMGN2ZVNacGhjMWdabEtBSmZuektXTllncnNpVWhFbXdn?oc=5
+
+## 청년 주택청약 가입 문턱 낮아져요
+- **누가?** 연소득 7000만원 이하 청년
+- **무엇을?** 청약 가입 가능 소득 기준이 기존보다 확대돼 더 많은 청년이 청약통장 혜택 대상이 됨
+- **어떻게?** 은행 청약통장 가입 요건 변경 내용을 확인하고 신규 가입 또는 기존 통장 활용
+- 원문: https://news.google.com/rss/articles/CBMibEFVX3lxTE9MN2psS2pIc2FEZ2JKdjN3X2xSUUh6dGVfU1BxUzY2WS1KNXQtdUxGUlZSZlFSbEZ3T2ZXTHA0TUx3UDAxNVVwaXpRY3VSa2xpUzNZdHctSDk0eWtpaF9FdnNIa3VrY3dmdm5BYdIBcEFVX3lxTFA5U0Z5WnFacGJiU1VaNjgtUTNqT0dVMmJMWnR0OEtwc3Jyal94VUd4U3J6V3dGYWQyUng1bDgzc202WTBrYUMyUDA5dVptX2gxMGdTVHhfU0hBUzJjOThuczVMZjZDNm1PY1FsenNSX1g?oc=5
+
+## 서울런 지원 대상 17만 명으로 확대
+- **누가?** 서울 거주 저소득·교육 지원 필요 학생·가정
+- **무엇을?** 온라인 학습 플랫폼 서울런 무료 이용 대상 확대로 교육비 부담 완화
+- **어떻게?** 서울런 홈페이지에서 신청 자격 확인 후 가입 신청
+- 원문: https://news.google.com/rss/articles/CBMiWEFVX3lxTFBJcG1VbE5YcnczdHdVUUJNTk5GbTlndDNhVmt5MW8yeWFnWVVOXzF1eDI1aThrcno3clFmcGM5ekFBb1FBT21fUWxmR1kxYW9PN2dLdkEzRFA?oc=5
+
+## 청양군, 빈집 고쳐 보증금 0원·월세 1만원에 제공
+- **누가?** 청양군 정착을 원하는 청년·신혼부부
+- **무엇을?** 빈집을 리모델링해 보증금 없이 월세 1만원 수준으로 거주 가능
+- **어떻게?** 청양군청 주거지원 담당 부서에 문의 및 신청
+- 원문: https://news.google.com/rss/articles/CBMibkFVX3lxTE1TT2tCeW9BdUdyZHBDaks3dWFHbVdMNkdxQTJqYklzM215STc0Qi1jQXM3TUxvVVNBRkVoelBTbjJfLV92Z0phemRhUnB4S0xjZWgyVXg0YTFSZHdYdHlrYlp0Y1ItQ3B6SXI1c3hB?oc=5
+
+---
+고흥군·나주시 민생회복지원금도 각각 30일, 16일 신청 마감을 앞두고 있으니 해당 지역 거주자는 서둘러 확인하세요.
