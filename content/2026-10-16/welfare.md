@@ -1,0 +1,30 @@
+# 🏛️ 오늘의 지원금·정책 브리핑 — 2026-10-16
+
+> 소상공인 사회보험료 지원, 중증당뇨 환자 CGM 지원 확대, 아이사랑카드까지 오늘 챙길 혜택이 있어요
+
+## 소상공인 사회보험료 지원금, 3분기분 신청받아요
+- **누가?** 부여군 소상공인
+- **무엇을?** 사업주가 부담하는 사회보험료 일부를 지원받아 부담을 덜 수 있어요
+- **어떻게?** 부여군청 등 관할 기관에서 3분기분 신청을 접수 중이니 기간 내 신청하면 돼요
+- 원문: https://news.google.com/rss/articles/CBMiakFVX3lxTFBkakp4b0t1STlLQjJaME9KdTdnVnRFcW5Cb2hGZGpuYkFiV3I2QkZtbXg1N3h1VWxNck12WnppM3U3QnhRMm5PeEJhSXFRZFphNnFESW9PX3Azd040Z3FhWExNMVFjRndxdlE?oc=5
+
+## 중증 2형당뇨 환자, 연속혈당측정기(CGM) 지원 12월 확대
+- **누가?** 중증 2형당뇨병 진단을 받은 환자
+- **무엇을?** 연속혈당측정기(CGM) 관련 지원 대상과 범위가 12월부터 넓어질 예정이에요
+- **어떻게?** 건강보험공단이나 병원을 통해 중증도 판정 기준과 요양급여 전환 여부를 확인해보세요
+- 원문: https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JU0NzUEJtRzZrZTNOV2FnNmQ4SHFwVWg4M3JyMlRhaXk4NWRFV1Zjb0tvdnVfZlNNNi1GcHNYUzdkSEVDOVJGRi1XeWhycHR3UFkzS002LTlDVEI4ZENQWlFLQ2k?oc=5
+
+## 아이사랑카드, 국민행복카드와 차이 확인하고 신청하세요
+- **누가?** 영유아를 키우는 양육가정
+- **무엇을?** 보육료·양육수당 등을 카드로 지원받을 수 있어요
+- **어떻게?** 신청 방법과 절차, 국민행복카드와의 차이를 확인한 뒤 주민센터나 복지로에서 신청하세요
+- 원문: https://news.google.com/rss/articles/CBMia0FVX3lxTFBDSzBMTDdpdkZqbmstZ016cDlJNnJpSmR0VTJQZVl4eGNGMXQ2R3RZbXJCcWxMYUVUanE5VXVYZUhlMzg5MVcwWGxLdVlQdFBRYnRwcV9uQzFxeXRxZnRDZzdVZF9QOGgzMFhB?oc=5
+
+## 동남권 중소 수출기업, 78억 규모 우대금융 지원
+- **누가?** 동남권(경남 등) 중소 수출기업
+- **무엇을?** 경남은행과 무역보험공사가 협력해 낮은 금리 등 우대 조건으로 금융을 지원해요
+- **어떻게?** 경남은행 영업점이나 무역보험공사를 통해 지원 대상 여부와 신청 절차를 확인하세요
+- 원문: https://news.google.com/rss/articles/CBMic0FVX3lxTE5OX3g2TVpDOGRWNlhYS2ltNlUtNVRkTWdNZDhYY3dNQkxZVG12OG5zMmZZWTRUWjVpNzNVTkpXcTJXWmY5aVVOSHJfdW80LXV0MTkxeW15Mi03aE9XQjRDdFNkMjB0Q3dPaV93SlNoYXlEek0?oc=5
+
+---
+대구시 북구청이 맞춤형 복지정보 제공을 확대해 사각지대 해소에 나선다고 하니, 복지 혜택이 궁금하면 주민센터 상담도 활용해보세요.
