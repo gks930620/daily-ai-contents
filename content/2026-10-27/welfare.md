@@ -1,0 +1,30 @@
+# 🏛️ 오늘의 지원금·정책 브리핑 — 2026-10-27
+
+> 서민 대출 보증료 할인부터 청년 저축 지원, 지역 온누리상품권 혜택까지 챙겨가세요
+
+## 서민 대상 '따뜻한햇살론' 보증료 할인 확대
+- **누가?** 기존 또는 신규 햇살론(서민 정책대출) 이용자
+- **무엇을?** 대출받을 때 내야 하는 보증료를 깎아주는 대상이 넓어져요
+- **어떻게?** BNK경남은행 영업점이나 고객센터에서 본인이 할인 대상인지 확인해보세요
+- 원문: https://news.google.com/rss/articles/CBMiXEFVX3lxTE10STVXRE45V3phakRMS3dER1VlYnltdjlfd1FDNjFxZllFZ1pnY1NnY19oMFkwYnBJTnJQc1d6elZuODI3cVhxaUVBWE5RejNmaFZlN3g0X3REWS1o?oc=5
+
+## 월 50만원씩 저축하면 정부가 돈을 더 얹어주는 청년 지원책
+- **누가?** 지원 요건에 맞는 청년
+- **무엇을?** 매달 일정 금액을 저축하면 정부가 추가로 돈을 보태줘요
+- **어떻게?** 기사에 정리된 청년 지원책 목록을 확인하고 본인에게 맞는 상품에 신청하세요
+- 원문: https://news.google.com/rss/articles/CBMickFVX3lxTE5XcUlPd3d3SzVBaTAwb3JxZlFBTDBLdEVOV2JYeVdieFBpMzRrZmE0YUcxS2RUMzNOMWN2Y0hEamRXbjFDdFBNYmNBNWZMcGUwVW5MZjRHMi1oLWVpZjNxcVFqX212UzNKM0tmVWtrN293dw?oc=5
+
+## 평택 지역 소비자, 온누리상품권으로 장보기 혜택
+- **누가?** 평택 골목상권(1770곳)을 이용하는 주민
+- **무엇을?** 온누리상품권을 할인된 가격에 사서 정가로 쓸 수 있어 실질적으로 돈을 아낄 수 있어요
+- **어떻게?** 지역 농협·새마을금고 등에서 온누리상품권을 구매해 해당 상권 가맹점에서 사용하세요
+- 원문: https://news.google.com/rss/articles/CBMidEFVX3lxTE1tb2JOOHZpVjlvTjhJbnM4YVRvT0hXOXhaMU96S3A0SkxDVXlkbVdNN2pQQlpBQzlTVGNzd2Q0dGhTaU5rZ1RBZXFOaHhrNm5CQmxSb0JfT1h3emNyVVlac1kzRDdPWHJmNHNpWUlFaHFqYWM40gF0QVVfeXFMTW1vYk44dmlWOW9OOEluczhhVG9PSFc5eFoxT3pLcDRKTENVeWRtV003alBCWkFDOVNUY3N3ZDR0aFNpTmtnVEFlcU5oeGs2bkJCbFJvQl9PWHd6Y3JVWVpzWTNEN09YcmY0c2lZSUVocWphYzg?oc=5
+
+## 강릉 성남시장 상인·방문객, 상품권 쓸 수 있는 가게 더 늘었어요
+- **누가?** 강릉 성남시장에서 온누리상품권을 쓰는 소비자
+- **무엇을?** 10월 22일부터 상품권 사용 가능 점포가 63곳 추가돼 더 많은 곳에서 할인 효과를 볼 수 있어요
+- **어떻게?** 강릉 성남시장 방문 시 '온누리상품권 가맹점' 표시를 확인하고 사용하세요
+- 원문: https://news.google.com/rss/articles/CBMiakFVX3lxTE5YNmd0TjduTDNwOWJQWXhiaVdVZFprUlpJZFJuSkZBQVNLdUxYclFwbDIwVXhPR01vQkstMmN2aVNtSmZLMlRCb3JQOVZsZHpmcERMNHk1VS1GRkdJVjRBbUNpTU5zaTlfeEE?oc=5
+
+---
+김해시의회에서는 '정성껏 해드림센터' 돌봄 지원 확대를 요구하는 발언이 나왔어요 — 아직 확정은 아니지만 지역 돌봄 서비스가 늘어날 수 있는 움직임이에요.
