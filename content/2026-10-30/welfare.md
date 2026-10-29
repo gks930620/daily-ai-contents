@@ -1,0 +1,12 @@
+# 🏛️ 오늘의 지원금·정책 브리핑 — 2026-10-30
+
+> 무안군, 이사할 때 부동산 중개료 지원받는 대상이 넓어졌어요
+
+## 무안군, 집 구할 때 중개수수료 지원 대상 확대
+- **누가?** 무안군 내에서 집을 옮기거나 새로 계약하는 주민
+- **무엇을?** 부동산 중개보수(중개수수료) 일부를 지원받아 이사·주거이전 비용 부담을 줄일 수 있음
+- **어떻게?** 무안군청 또는 관련 부서(주택·토지 담당)에 지원 대상 확대 세부 요건 문의 후 신청
+- 원문: https://news.google.com/rss/articles/CBMiZkFVX3lxTE9uaDkwbjRKdXBzZWtBVnRZLXpBT1FTYlVJX0tncFRsMHliYVo5ZjhqZzJlc25BcXkxd3hDSkt1eUpCMnRwdERMV1ctOHRYY1ZmSDVpY2pJajRRQ2I4bzVjRW9UaFpOUQ?oc=5
+
+---
+출산·육아 지원도 구멍이 있다는 국감 지적이 나왔어요 — 산모·신생아 지원금이 늦게 지급되거나 어린이집 입소 대기가 길어지는 경우가 있으니, 해당 가정은 지자체 보건소·육아지원센터에 지급 현황을 직접 확인해보는 게 좋아요.
