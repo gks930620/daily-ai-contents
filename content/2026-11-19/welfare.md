@@ -1,0 +1,36 @@
+# 🏛️ 오늘의 지원금·정책 브리핑 — 2026-11-19
+
+> 편의점 병역의무자 할인 확대와 해남군 중개보수 지원 확대가 오늘의 핵심 혜택이에요
+
+## 편의점 병역의무자 할인 확대
+- **누가?** 현역 장병·사회복무요원 등 병역의무자
+- **무엇을?** 세븐일레븐·CU·GS25에서 나라사랑 멤버십으로 편의점 구매 시 할인 혜택을 받을 수 있음
+- **어떻게?** 각 편의점 멤버십(나라사랑카드 등) 가입 후 매장에서 제시
+- 원문: https://news.google.com/rss/articles/CBMiVEFVX3lxTE5NSENlem9aXzA2SUMyT29IM3dLYkMzdF9GWDk5S0hqQi15TTNPX09WN3h0T2RQakhKdUZzWWUxRGxQdENaemM5SUM4bG5Bd1hQQmh2R9IBVEFVX3lxTE5NSENlem9aXzA2SUMyT29IM3dLYkMzdF9GWDk5S0hqQi15TTNPX09WN3h0T2RQakhKdUZzWWUxRGxQdENaemM5SUM4bG5Bd1hQQmh2Rw?oc=5
+
+## 해남군 부동산 중개보수 지원 확대
+- **누가?** 해남군 거주 차상위·한부모·신혼부부 등 주거취약계층
+- **무엇을?** 집 구할 때 드는 중개보수를 가구당 최대 30만원까지 지원
+- **어떻게?** 해남군청 관련 부서에 지원 대상 여부 문의 후 신청
+- 원문: https://news.google.com/rss/articles/CBMiakFVX3lxTE5nQmVCTFN0NFY3cy1HQmVwR1NSckhnSllIRlN1Ml9mS0V0WVEtekVnVjUwbUpGZHgzX2VlbmVJS3MtS29BX2l3NlFBVmdlN1JIeWo0R0xRci1RYkdROVVNX3FvZzBUcmtyTGc?oc=5
+
+## 전주시 청년부부 결혼비용 지원
+- **누가?** 전주시에 사는 청년부부
+- **무엇을?** 결혼비용 일부를 지원금으로 받을 수 있음
+- **어떻게?** 하반기 접수 기간에 전주시 홈페이지·관련 부서에서 신청
+- 원문: https://news.google.com/rss/articles/CBMiYkFVX3lxTE9yZlhmOHZfVmREcGZ3SGtEemtLRUtUYl9PekZsNTBuQ2lBX3IyTFVSS2lMY29INXBYOFhCaEFPR1JVY3BlSVo4NDBpXzZXR2huVjRJaFFFQk1uaENNSThqRHlB?oc=5
+
+## 탈북민 주거지원금 추가신청 확인
+- **누가?** 탈북민 중 주거지원금을 신청하지 않은 706세대
+- **무엇을?** 안내를 못 받아 아직 받지 못한 주거지원금(전체 12억원 규모)을 받을 수 있음
+- **어떻게?** 거주지 관할 하나센터·지자체에 추가신청 가능 여부 문의
+- 원문: https://news.google.com/rss/articles/CBMiVkFVX3lxTE94ZzR6d2FZbXptQTR4R2EzS1Iyai0tUmRnUzlTVGdFSDFHS1RqM2hDaHV4TDN3MFZFeTRDNi1ESm9sR1lETWZpTFhjWngxcmxHRXNaNnp3?oc=5
+
+## 세종시 농업인 지원 대상 확대
+- **누가?** 세종시 거주 50세 이하 농업인
+- **무엇을?** 지원 문턱이 낮아져 더 많은 농업인이 지원을 받을 수 있게 됨
+- **어떻게?** 세종시 관련 부서(농업정책과 등)에 자격 여부 문의
+- 원문: https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwY3o4RFpVbU02ODRIRlhya3B0OEhuMlZTVEctcnlsMDhCQzA1VXpEX1NWNFJ2dVZUREVhay1UQ01ETnRaSkwwcUVXa1hXd0QwSUQtNDNQMEZxV21Lb295UVRwbXI?oc=5
+
+---
+초등학교 입학 예정 자녀가 있다면, 2027학년도부터 온라인 취학통지서 발급 대상이 늘어나 더 편하게 서류를 받을 수 있어요.
