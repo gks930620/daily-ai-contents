@@ -1,0 +1,36 @@
+# 🏛️ 오늘의 지원금·정책 브리핑 — 2026-11-22
+
+> 오늘은 에너지바우처부터 혼인신고 지원금까지, 신청만 하면 받는 혜택이 많은 날이에요.
+
+## 에너지바우처 70만 원 지원
+- **누가?** 기초생활수급자 등 소득 하위 취약계층 가구
+- **무엇을?** 난방비 등 에너지 비용을 최대 70만 원까지 지원
+- **어떻게?** 지원 대상 여부를 확인하고 주민센터나 복지로에서 신청
+- 원문: https://news.google.com/rss/articles/CBMiU0FVX3lxTE4teFAwc3RnMnBYUmxQYzlZR0I3djNsVERGbHR4SXV5dkFId2Ruc2NjeDBCWU95UWpid0d6UUFORmNlNWNxa0hBekdsTXNaMHcyUVNZ?oc=5
+
+## 고위험 산모 지원금 최대 300만 원
+- **누가?** 고위험 임신으로 진단받은 산모
+- **무엇을?** 의료비 명목으로 최대 300만 원 지원
+- **어떻게?** 신청 조건을 확인하고 놓치지 말아야 할 서류를 챙겨 신청
+- 원문: https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tbmRSSDdROC1VMFQtZG9PNFF4b0RDNE9MOVNFdGtlNlhoMDJVcFc0MUhiOGFPZzBjYXZ3U0theHFKWXdDM0tOZU5qeV8xS01FSG82MVhleTRpQQ?oc=5
+
+## 청년취업지원금 월 60만 원
+- **누가?** 취업을 준비 중인 청년
+- **무엇을?** 매달 60만 원 수당 지급
+- **어떻게?** 신청 자격을 확인하고 실전 전략에 맞춰 신청
+- 원문: https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZRlJRVEw5Q05wN0picUtOMFA4UzRZY0pUQlFLbkFDMEE2TVBjakcyeFRqOTdHeG4zeXF1SWNScWpMeHcwQTRoci11b0w0cjd1NThLOE9xdEtVUQ?oc=5
+
+## 대전 혼인신고 지원금
+- **누가?** 대전에서 혼인신고를 하는 신혼부부
+- **무엇을?** 혼인신고 시 지원금 지급
+- **어떻게?** 신청 자격과 놓치기 쉬운 필수 서류를 미리 정리해 신청
+- 원문: https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BejJVVzhFOXQ3Nlh3S01YaGkxTkpDeFRBYTVxdHBQcUdIQlBENXJQMklOTEFPUHhBSUNxVXlrc2lNUFVmZ21kNDNuNTMxZ1NfYlNQUFoxenR4QQ?oc=5
+
+## 대구 혁신 행복주택 입주자격 완화
+- **누가?** 대구 지역 공공임대 입주를 원하는 청년·무주택자
+- **무엇을?** 완화된 자격으로 행복주택 입주 기회 확대
+- **어떻게?** 선계약 후검증 방식을 이해하고 청약 신청
+- 원문: https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT2RoOWJsY1h3ZHhwV2E2WE1Sd3dMTTZEdUVDQ085dU9rNmFsdzMwRHBsc3JvU0dvek1OZlRQX2RFdEgtZkVLT1BpX0c0aEFqdXpRWFhCU0hqN1UwYWQzQl9QMUo3eXl2ZkdnVzB2SnVuWW9jN016WDh5cjFDYjdHWk1GN1lKQUpVNGFIQVBiaWdlODBtUmJ6M0NiUUM3eWJXcE9pWWVneEF0S3M?oc=5
+
+---
+내년 출시 예정인 청년미래보금자리론(월세 수준 부담으로 내 집 마련)도 미리 알아두면 좋고, 대전 월세지원은 신청 마감 후 챙겨야 할 절차가 남아있으니 확인해두세요.
