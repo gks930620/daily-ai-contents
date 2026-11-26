@@ -1,0 +1,36 @@
+# 🏛️ 오늘의 지원금·정책 브리핑 — 2026-11-26
+
+> 전북 청년 문화비 15만원 지급부터 대중교통비 환급까지, 오늘은 챙길 혜택이 많아요
+
+## 전북 청년·소외계층 문화비 지원 확대
+- **누가?** 전북에 거주하는 청년과 소외계층(기초생활수급자 등)
+- **무엇을?** 청년은 연 15만원, 소외계층은 최대 21만원까지 문화·체육활동비 지원
+- **어떻게?** 전북도 또는 거주 시·군 홈페이지에서 신청 대상과 방법 확인
+- 원문: https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LV1dIMkhqZzhNMjlaWGJBTXdYR1JYVUp0WVlYekxjaXpnZWVVU3ZrcV93SGI0TVRUR3g2OUl5SnpUcXU0MTk1aU9ydGRpcUhLd0NVMVVNQ0tsTHlMV2FrX9IBYEFVX3lxTE9LV1dIMkhqZzhNMjlaWGJBTXdYR1JYVUp0WVlYekxjaXpnZWVVU3ZrcV93SGI0TVRUR3g2OUl5SnpUcXU0MTk1aU9ydGRpcUhLd0NVMVVNQ0tsTHlMV2FrXw?oc=5
+
+## 대학생 '천원의 아침밥' 지원금 3천원으로 인상
+- **누가?** 2027년 '천원의 아침밥' 참여대학 재학생
+- **무엇을?** 학생은 천원만 내고 아침밥을 먹고, 정부 지원금이 1인당 3천원으로 올라 참여 대학이 더 늘어날 전망
+- **어떻게?** 재학 중인 대학이 참여대학 모집에 신청했는지 학교 공지 확인 (2027년 시행 예정)
+- 원문: https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZRWJFcUkzYVpfUmVQcE1jeHBtMG9fT1dXY01ITUpwbkJkSmNoSk1wdzFvSzF0WkFwU05QRHg3djNKdE9zdk15QXZnRGNnOEJ0d1JneVVza05ERVdwQy1OVVlmVkE4YzNiY0pYQ1R3?oc=5
+
+## 장성군, 집 구할 때 중개수수료 지원 대상 확대
+- **누가?** 전남 장성군에서 주택 거래를 앞둔 주민
+- **무엇을?** 부동산 중개보수(수수료) 일부를 지원받아 이사·거래 비용 절감
+- **어떻게?** 장성군청 주택 관련 부서에 지원 대상과 신청 방법 문의
+- 원문: https://news.google.com/rss/articles/CBMid0FVX3lxTE5tcnhTZzh6V0ZUNnBETzVqZWlmbVVGcDE4NUN2b1dWcjBlSFlGNTBpSzM1bHZsUlFaN0c2UHgydFdPZ2dWeEdwWjVhMTZGTldVanBxWGphWVJYTnhhMDN3dHc3ZTVFeUZqV3o0RTZnRXh0dFBnd0k40gF3QVVfeXFMTm1yeFNnOHpXRlQ2cERPNWplaWZtVUZwMTg1Q3ZvV1ZyMGVIWUY1MGlLMzVsdmxSUVo3RzZQeDJ0V09nZ1Z4R3BaNWExNkZOV1VqcHFYamFZUlhOeGEwM3d0dzdlNUV5RmpXejRFNmdFeHR0UGd3STg?oc=5
+
+## 재해지역 연료 나눔 지원 확대
+- **누가?** 자연재해 피해를 입은 지역 주민
+- **무엇을?** 난방유 등 연료를 나눔 형태로 지원받아 겨울철 난방비 부담 완화
+- **어떻게?** 거주 지역의 재해 지정 여부 확인 후 한국석유관리원 또는 지자체에 문의
+- 원문: https://news.google.com/rss/articles/CBMiY0FVX3lxTE96RDBFalcxQmNpVnJuX2F3Y0c0VEd3VzNLY3lxaGY0Q2dlSk1Xdk5VUktrMmVKZ0g4dmxSSW9WNG9mMFhldTdNRG1TNkEzN3F3aVRJSlhQcjdrWkpVRU02a0JJVQ?oc=5
+
+## 12월부터 청소년도 '모두의카드'로 교통비 환급
+- **누가?** 대중교통을 이용하는 청소년
+- **무엇을?** 12월부터 모두의카드 이용이 가능해져 대중교통비를 환급받을 수 있음
+- **어떻게?** 모두의카드 발급 방법과 이용 조건은 12월 시행 공고에서 확인
+- 원문: https://news.google.com/rss/articles/CBMibEFVX3lxTE5Wa2hHMmM5ZGZUbi0yZXZXb1gtVm5kZmVRTVA2dTFZV1RVRVU5Y29KbW1UUGRvT3hELUVyLWRyWThkRW0yX2x3S09EUW5lZ2pwaVozdms5cERlaDJzcGRiaEdrUXV2N3BMZTRRWA?oc=5
+
+---
+LH가 5년간 공적주택 50만호를 착공하고 수도권에 182조원 규모 아파트가 발주될 예정이라 앞으로 공공주택 공급이 늘어날 전망이에요.
